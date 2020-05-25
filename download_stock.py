@@ -3,7 +3,7 @@ import pandas as pd
 import pandas_datareader as pdr
 from datetime import datetime
 
-# Select the 30 stocks of DJI plus the DJI itself
+# Select the stocks to download
 stocks = ['AAPL']
 
 # Select the dates 
@@ -20,6 +20,9 @@ df.index.name = None
 
 # Rename columns
 df.columns = ['Adj Close', 'Close', 'High', 'Low', 'Open', 'Volume']
+
+# Reorder the columns
+df = df[['Open', 'Low', 'Close', 'High', 'Volume']]
 
 # Save the data
 df.to_csv('data/AAPL_2000_2019.csv')
