@@ -3,6 +3,8 @@ import numpy as np
 import pandas as pd
 import logging
 import itertools
+import pandas_datareader as pdr
+from datetime import datetime
 
 # Visualization
 import matplotlib.pyplot as plt
@@ -12,7 +14,51 @@ import plotly
 # Additional imports
 import plotly.graph_objs as go
 
-def plot_candlestick(data, tick = ''):
+###### Enable logging
+# Create the logger
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.DEBUG)
+
+# Create a handler for showing the logs
+formatter_stream = logging.Formatter('%(asctime)s : %(levelname)s %(message)s')
+stream_handler = logging.StreamHandler()
+stream_handler.setLevel(logging.DEBUG)
+stream_handler.setFormatter(formatter_stream)
+
+# Add the handlers to the logger
+logger.addHandler(stream_handler)
+#####
+
+def download_stock(stock = ['AAPL'], date_start = datetime(2000, 1, 1), date_end = datetime(2019, 12, 31)):
+    '''
+    Donwload historical prices from a stock.
+    
+    Arguments:
+        stock (list): tick of the stock to download
+        date_start (datetime): date to start tracking
+        date_end (datetime): date to end tracking
+    '''
+    # Log
+    logger.info('Download data from {}'.format(stock[0]))
+    
+    # Import data from Yahoo Finance
+    df = pdr.get_data_yahoo(symbols = stock, start = date_start, end = date_end)
+
+    # Delete annoying labels
+    df.columns = df.columns.get_level_values(1)
+    df.columns.name = None
+    df.index.name = None
+
+    # Rename columns
+    df.columns = ['Adj Close', 'Close', 'High', 'Low', 'Open', 'Volume']
+
+    # Reorder the columns
+    df = df[['Open', 'Low', 'Close', 'High', 'Volume']]
+
+    return df
+
+
+def plot_candlestick(data, tick = '', currency = '$'):
     '''
     Plot the candlestick chart of a stock.
 
@@ -34,7 +80,7 @@ def plot_candlestick(data, tick = ''):
     layout = {
         'title' : {'text' : '{} - Daily'.format(tick), 'x': 0.5, 'y': 0.9, 'font' : { 'size' : 30 }},
         'xaxis' : go.layout.XAxis(title = go.layout.xaxis.Title( text = "Time" ), rangeslider = { 'visible' : False }),
-        'yaxis' : go.layout.YAxis(title = go.layout.yaxis.Title( text = "Price per share in $")),
+        'yaxis' : go.layout.YAxis(title = go.layout.yaxis.Title( text = "Price per share in {}".format(currency))),
         'width' : 800,
         'height' : 400
     }

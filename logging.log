@@ -1,6 +1,58 @@
-2020-05-25 00:47:14,490 utils 2:INFO Import AAPL
-2020-05-25 00:47:14,545 utils 2:INFO Plot AAPL candlestick
-2020-05-25 00:47:15,574 utils 2:INFO Plot AAPL cummulative returns
-2020-05-25 01:03:24,722 utils 2:INFO Import AAPL
-2020-05-25 01:03:25,270 utils 2:INFO Plot AAPL candlestick
-2020-05-25 01:03:25,607 utils 2:INFO Plot AAPL cummulative returns
+2020-06-07 11:50:06,095 __main__ 2:INFO Plot AAPL candlestick
+2020-06-07 11:50:07,000 __main__ 2:INFO Plot AAPL cummulative returns
+2020-06-07 11:51:32,777 __main__ 14:INFO Running episode 0
+2020-06-07 11:59:44,618 __main__ 14:INFO Running episode 0
+2020-06-07 12:09:44,733 __main__ 14:INFO Running episode 0
+2020-06-07 12:12:28,550 __main__ 14:INFO Running episode 0
+2020-06-07 12:12:43,912 __main__ 14:INFO Running episode 0
+2020-06-07 12:19:04,446 __main__ 14:INFO Running episode 0
+2020-06-07 12:20:29,505 __main__ 14:INFO Running episode 0
+2020-06-07 12:21:22,564 __main__ 14:INFO Running episode 0
+2020-06-07 12:27:01,570 __main__ 14:INFO Running episode 0
+2020-06-07 12:27:47,421 __main__ 13:INFO Running episode 0
+2020-06-07 12:34:10,816 __main__ 13:INFO Running episode 0
+2020-06-07 15:35:28,589 __main__ 13:INFO Running episode 0
+2020-06-07 15:35:39,981 __main__ 13:INFO Running episode 0
+2020-06-07 15:36:22,825 __main__ 13:INFO Running episode 0
+2020-06-07 15:39:30,441 __main__ 13:INFO Running episode 0
+2020-06-07 15:40:38,302 __main__ 13:INFO Running episode 0
+2020-06-07 15:48:03,216 __main__ 13:INFO Running episode 0
+2020-06-07 16:21:04,343 __main__ 13:INFO Running episode 0
+2020-06-07 16:27:02,342 __main__ 13:INFO Running episode 0
+2020-06-07 17:36:21,079 __main__ 2:INFO Plot AAPL candlestick
+2020-06-07 18:01:37,494 __main__ 13:INFO Running episode 0
+2020-06-07 18:04:20,831 __main__ 13:INFO Running episode 0
+2020-06-07 19:29:07,548 __main__ 13:INFO Running episode 0
+2020-06-07 19:29:19,719 __main__ 13:INFO Running episode 0
+2020-06-07 19:37:24,478 __main__ 4:INFO Running episode 0
+2020-06-07 19:44:48,960 __main__ 4:INFO Running episode 0
+2020-06-07 19:48:40,834 __main__ 2:INFO Plot AAPL candlestick
+2020-06-07 19:48:41,208 __main__ 2:INFO Plot AAPL cummulative returns
+2020-06-07 19:48:46,858 __main__ 4:INFO Running episode 0
+2020-06-07 19:48:56,479 __main__ 4:INFO Running episode 0
+2020-06-07 19:50:51,994 __main__ 4:INFO Running episode 0
+2020-06-07 19:51:03,165 __main__ 4:INFO Running episode 0
+2020-06-07 19:52:47,085 __main__ 4:INFO Running episode 0
+2020-06-07 19:52:58,259 __main__ 3:INFO Training DDQL
+2020-06-07 20:34:38,111 __main__ 4:INFO Running episode 0
+2020-06-07 20:34:46,786 __main__ 4:INFO Running episode 1
+2020-06-07 20:34:57,141 __main__ 4:INFO Running episode 2
+2020-06-07 20:35:07,117 __main__ 4:INFO Running episode 3
+2020-06-07 20:35:17,404 __main__ 4:INFO Running episode 4
+2020-06-07 20:55:23,416 __main__ 4:INFO Running episode 0
+2020-06-07 20:55:42,074 __main__ 4:INFO Running episode 1
+2020-06-07 20:56:04,029 __main__ 4:INFO Running episode 2
+2020-06-07 20:56:24,671 __main__ 4:INFO Running episode 3
+2020-06-07 20:56:46,502 __main__ 4:INFO Running episode 4
+2020-06-07 20:57:11,076 __main__ 3:INFO Training DQL
+2020-06-07 20:58:54,527 __main__ 3:INFO Training DDQL
+2020-06-07 20:59:38,959 __main__ 3:INFO Training DDQL
+2020-06-07 21:42:10,737 __main__ 3:INFO Training DQL
+2020-06-07 22:17:04,743 __main__ 3:INFO Training DQL
+2020-06-07 22:18:02,751 __main__ 3:INFO Training DQL
+2020-06-07 22:27:01,081 __main__ 3:INFO Training DQL
+2020-06-07 22:30:56,496 __main__ 3:INFO Training DQL
+2020-06-07 22:42:13,275 __main__ 3:INFO Training DDQL
+2020-06-07 23:42:02,686 __main__ 3:INFO Training DQL
+2020-06-07 23:43:56,406 __main__ 3:INFO Training DDQL
+2020-06-07 23:59:42,392 __main__ 3:INFO Training DDQL
