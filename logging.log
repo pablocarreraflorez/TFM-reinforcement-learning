@@ -1,1107 +1,185 @@
-2020-06-13 23:04:14,572 __main__ 2:INFO Plot AAPL candlestick
-2020-06-13 23:04:15,704 __main__ 2:INFO Plot AAPL cummulative returns
-2020-06-13 23:04:21,678 __main__ 81:INFO Training DQL
-2020-06-13 23:04:21,681 __main__ 86:DEBUG Running episode 0
-2020-06-13 23:04:21,685 __main__ 95:DEBUG Running step 0/248
-2020-06-13 23:04:30,115 __main__ 95:DEBUG Running step 100/248
-2020-06-13 23:04:40,413 __main__ 95:DEBUG Running step 200/248
-2020-06-13 23:04:45,539 __main__ 125:DEBUG Finish at step 248/248
-2020-06-13 23:04:45,539 __main__ 86:DEBUG Running episode 1
-2020-06-13 23:04:45,540 __main__ 95:DEBUG Running step 0/248
-2020-06-13 23:04:55,085 __main__ 95:DEBUG Running step 100/248
-2020-06-13 23:05:04,377 __main__ 95:DEBUG Running step 200/248
-2020-06-13 23:05:08,947 __main__ 125:DEBUG Finish at step 248/248
-2020-06-13 23:05:08,947 __main__ 86:DEBUG Running episode 2
-2020-06-13 23:05:08,949 __main__ 95:DEBUG Running step 0/248
-2020-06-13 23:05:18,478 __main__ 95:DEBUG Running step 100/248
-2020-06-13 23:05:27,897 __main__ 95:DEBUG Running step 200/248
-2020-06-13 23:05:32,575 __main__ 125:DEBUG Finish at step 248/248
-2020-06-13 23:05:32,576 __main__ 86:DEBUG Running episode 3
-2020-06-13 23:05:32,577 __main__ 95:DEBUG Running step 0/248
-2020-06-13 23:05:42,063 __main__ 95:DEBUG Running step 100/248
-2020-06-13 23:05:53,003 __main__ 95:DEBUG Running step 200/248
-2020-06-13 23:05:57,939 __main__ 125:DEBUG Finish at step 248/248
-2020-06-13 23:05:57,939 __main__ 86:DEBUG Running episode 4
-2020-06-13 23:05:57,940 __main__ 95:DEBUG Running step 0/248
-2020-06-13 23:06:08,228 __main__ 95:DEBUG Running step 100/248
-2020-06-13 23:06:17,763 __main__ 95:DEBUG Running step 200/248
-2020-06-13 23:06:22,512 __main__ 125:DEBUG Finish at step 248/248
-2020-06-14 00:02:37,312 __main__ 83:INFO Training DQL
-2020-06-14 00:02:37,315 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:02:37,318 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:02:37,439 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:03:11,846 __main__ 83:INFO Training DQL
-2020-06-14 00:03:11,849 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:03:11,850 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:03:11,965 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:05:00,194 __main__ 83:INFO Training DQL
-2020-06-14 00:05:00,197 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:05:00,201 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:05:00,332 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:05:21,112 __main__ 83:INFO Training DQL
-2020-06-14 00:05:21,115 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:05:21,119 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:05:21,247 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:05:21,555 __main__ 116:ERROR This method is not available.
-2020-06-14 00:05:21,555 __main__ 88:DEBUG Running episode 1
-2020-06-14 00:05:21,556 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:05:21,616 __main__ 116:ERROR This method is not available.
-2020-06-14 00:05:21,617 __main__ 88:DEBUG Running episode 2
-2020-06-14 00:05:21,617 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:05:21,666 __main__ 116:ERROR This method is not available.
-2020-06-14 00:05:21,667 __main__ 88:DEBUG Running episode 3
-2020-06-14 00:05:21,667 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:05:21,713 __main__ 116:ERROR This method is not available.
-2020-06-14 00:05:21,713 __main__ 88:DEBUG Running episode 4
-2020-06-14 00:05:21,714 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:05:21,764 __main__ 116:ERROR This method is not available.
-2020-06-14 00:07:30,341 __main__ 83:INFO Training DQL
-2020-06-14 00:07:30,345 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:07:30,349 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:07:30,501 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:07:30,823 __main__ 113:ERROR This method is not available.
-2020-06-14 00:07:30,823 __main__ 88:DEBUG Running episode 1
-2020-06-14 00:07:30,824 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:07:30,882 __main__ 113:ERROR This method is not available.
-2020-06-14 00:07:30,882 __main__ 88:DEBUG Running episode 2
-2020-06-14 00:07:30,883 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:07:30,946 __main__ 113:ERROR This method is not available.
-2020-06-14 00:07:30,947 __main__ 88:DEBUG Running episode 3
-2020-06-14 00:07:30,947 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:07:31,021 __main__ 113:ERROR This method is not available.
-2020-06-14 00:07:31,021 __main__ 88:DEBUG Running episode 4
-2020-06-14 00:07:31,022 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:07:31,068 __main__ 113:ERROR This method is not available.
-2020-06-14 00:07:40,382 __main__ 83:INFO Training DQL
-2020-06-14 00:07:40,385 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:07:40,388 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:07:40,553 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:07:40,892 __main__ 113:ERROR This method is not available.
-2020-06-14 00:07:40,892 __main__ 88:DEBUG Running episode 1
-2020-06-14 00:07:40,893 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:07:40,948 __main__ 113:ERROR This method is not available.
-2020-06-14 00:07:40,948 __main__ 88:DEBUG Running episode 2
-2020-06-14 00:07:40,949 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:07:41,000 __main__ 113:ERROR This method is not available.
-2020-06-14 00:07:41,001 __main__ 88:DEBUG Running episode 3
-2020-06-14 00:07:41,001 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:07:41,051 __main__ 113:ERROR This method is not available.
-2020-06-14 00:07:41,052 __main__ 88:DEBUG Running episode 4
-2020-06-14 00:07:41,052 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:07:41,106 __main__ 113:ERROR This method is not available.
-2020-06-14 00:08:03,369 __main__ 83:INFO Training DQL
-2020-06-14 00:08:03,372 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:08:03,375 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:08:03,566 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:08:08,149 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:08:10,135 __main__ 114:DEBUG Finish at step 248/248
-2020-06-14 00:08:10,136 __main__ 88:DEBUG Running episode 1
-2020-06-14 00:08:10,137 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:08:14,479 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:08:19,128 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:08:21,025 __main__ 114:DEBUG Finish at step 248/248
-2020-06-14 00:08:21,026 __main__ 88:DEBUG Running episode 2
-2020-06-14 00:08:21,027 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:08:24,880 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:08:28,745 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:08:30,648 __main__ 114:DEBUG Finish at step 248/248
-2020-06-14 00:08:30,649 __main__ 88:DEBUG Running episode 3
-2020-06-14 00:08:30,649 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:08:34,509 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:08:38,369 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:08:40,270 __main__ 114:DEBUG Finish at step 248/248
-2020-06-14 00:08:40,271 __main__ 88:DEBUG Running episode 4
-2020-06-14 00:08:40,271 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:08:44,167 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:08:48,321 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:08:50,214 __main__ 114:DEBUG Finish at step 248/248
-2020-06-14 00:10:13,009 __main__ 83:INFO Training DQL
-2020-06-14 00:10:13,012 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:10:13,016 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:10:13,232 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:10:17,390 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:10:19,349 __main__ 115:DEBUG Finish at step 248/248
-2020-06-14 00:10:19,349 __main__ 88:DEBUG Running episode 1
-2020-06-14 00:10:19,350 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:10:23,728 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:10:27,791 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:10:29,796 __main__ 115:DEBUG Finish at step 248/248
-2020-06-14 00:10:29,797 __main__ 88:DEBUG Running episode 2
-2020-06-14 00:10:29,798 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:10:33,864 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:10:38,088 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:10:40,155 __main__ 115:DEBUG Finish at step 248/248
-2020-06-14 00:10:40,156 __main__ 88:DEBUG Running episode 3
-2020-06-14 00:10:40,156 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:10:44,205 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:10:48,298 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:10:50,197 __main__ 115:DEBUG Finish at step 248/248
-2020-06-14 00:10:50,198 __main__ 88:DEBUG Running episode 4
-2020-06-14 00:10:50,199 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:10:54,075 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:10:57,989 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:10:59,905 __main__ 115:DEBUG Finish at step 248/248
-2020-06-14 00:11:03,303 __main__ 83:INFO Training DQL
-2020-06-14 00:11:03,306 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:11:03,309 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:11:03,555 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:11:07,786 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:11:09,707 __main__ 117:DEBUG Finish at step 248/248
-2020-06-14 00:11:09,707 __main__ 88:DEBUG Running episode 1
-2020-06-14 00:11:09,708 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:11:14,424 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:11:18,533 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:11:20,616 __main__ 117:DEBUG Finish at step 248/248
-2020-06-14 00:11:20,616 __main__ 88:DEBUG Running episode 2
-2020-06-14 00:11:20,617 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:11:24,541 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:11:28,463 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:11:30,392 __main__ 117:DEBUG Finish at step 248/248
-2020-06-14 00:11:30,393 __main__ 88:DEBUG Running episode 3
-2020-06-14 00:11:30,394 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:11:34,339 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:11:38,256 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:11:40,185 __main__ 117:DEBUG Finish at step 248/248
-2020-06-14 00:11:40,186 __main__ 88:DEBUG Running episode 4
-2020-06-14 00:11:40,187 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:11:44,138 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:11:48,081 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:11:50,004 __main__ 117:DEBUG Finish at step 248/248
-2020-06-14 00:12:45,492 __main__ 83:INFO Training DQL
-2020-06-14 00:12:45,495 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:12:45,499 __main__ 97:DEBUG Running step 0/500
-2020-06-14 00:12:45,772 __main__ 97:DEBUG Running step 100/500
-2020-06-14 00:12:50,342 __main__ 97:DEBUG Running step 200/500
-2020-06-14 00:12:54,290 __main__ 97:DEBUG Running step 300/500
-2020-06-14 00:12:58,405 __main__ 97:DEBUG Running step 400/500
-2020-06-14 00:13:02,357 __main__ 97:DEBUG Running step 500/500
-2020-06-14 00:13:02,404 __main__ 117:DEBUG Finish at step 500/500
-2020-06-14 00:13:02,405 __main__ 88:DEBUG Running episode 1
-2020-06-14 00:13:02,406 __main__ 97:DEBUG Running step 0/500
-2020-06-14 00:13:06,349 __main__ 97:DEBUG Running step 100/500
-2020-06-14 00:13:10,299 __main__ 97:DEBUG Running step 200/500
-2020-06-14 00:13:14,258 __main__ 97:DEBUG Running step 300/500
-2020-06-14 00:13:18,211 __main__ 97:DEBUG Running step 400/500
-2020-06-14 00:13:22,174 __main__ 97:DEBUG Running step 500/500
-2020-06-14 00:13:22,223 __main__ 117:DEBUG Finish at step 500/500
-2020-06-14 00:13:22,224 __main__ 88:DEBUG Running episode 2
-2020-06-14 00:13:22,224 __main__ 97:DEBUG Running step 0/500
-2020-06-14 00:13:26,185 __main__ 97:DEBUG Running step 100/500
-2020-06-14 00:13:30,144 __main__ 97:DEBUG Running step 200/500
-2020-06-14 00:13:34,099 __main__ 97:DEBUG Running step 300/500
-2020-06-14 00:13:38,055 __main__ 97:DEBUG Running step 400/500
-2020-06-14 00:13:42,021 __main__ 97:DEBUG Running step 500/500
-2020-06-14 00:13:42,069 __main__ 117:DEBUG Finish at step 500/500
-2020-06-14 00:13:42,070 __main__ 88:DEBUG Running episode 3
-2020-06-14 00:13:42,070 __main__ 97:DEBUG Running step 0/500
-2020-06-14 00:13:46,023 __main__ 97:DEBUG Running step 100/500
-2020-06-14 00:13:49,987 __main__ 97:DEBUG Running step 200/500
-2020-06-14 00:13:54,034 __main__ 97:DEBUG Running step 300/500
-2020-06-14 00:13:58,049 __main__ 97:DEBUG Running step 400/500
-2020-06-14 00:14:02,019 __main__ 97:DEBUG Running step 500/500
-2020-06-14 00:14:02,069 __main__ 117:DEBUG Finish at step 500/500
-2020-06-14 00:14:02,070 __main__ 88:DEBUG Running episode 4
-2020-06-14 00:14:02,071 __main__ 97:DEBUG Running step 0/500
-2020-06-14 00:14:06,155 __main__ 97:DEBUG Running step 100/500
-2020-06-14 00:14:10,144 __main__ 97:DEBUG Running step 200/500
-2020-06-14 00:14:14,217 __main__ 97:DEBUG Running step 300/500
-2020-06-14 00:14:18,182 __main__ 97:DEBUG Running step 400/500
-2020-06-14 00:14:22,364 __main__ 97:DEBUG Running step 500/500
-2020-06-14 00:14:22,411 __main__ 117:DEBUG Finish at step 500/500
-2020-06-14 00:21:29,535 __main__ 83:INFO Training DQL
-2020-06-14 00:21:29,537 __main__ 88:DEBUG Running episode 0
-2020-06-14 00:21:29,541 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:21:29,973 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:21:35,713 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:21:38,137 __main__ 117:DEBUG Finish at step 248/248
-2020-06-14 00:21:38,138 __main__ 88:DEBUG Running episode 1
-2020-06-14 00:21:38,139 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:21:44,295 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:21:49,597 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:21:52,077 __main__ 117:DEBUG Finish at step 248/248
-2020-06-14 00:21:52,078 __main__ 88:DEBUG Running episode 2
-2020-06-14 00:21:52,079 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:21:57,781 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:22:02,626 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:22:05,168 __main__ 117:DEBUG Finish at step 248/248
-2020-06-14 00:22:05,169 __main__ 88:DEBUG Running episode 3
-2020-06-14 00:22:05,170 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:22:10,117 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:22:15,538 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:22:18,206 __main__ 117:DEBUG Finish at step 248/248
-2020-06-14 00:22:18,207 __main__ 88:DEBUG Running episode 4
-2020-06-14 00:22:18,208 __main__ 97:DEBUG Running step 0/248
-2020-06-14 00:22:23,306 __main__ 97:DEBUG Running step 100/248
-2020-06-14 00:22:28,789 __main__ 97:DEBUG Running step 200/248
-2020-06-14 00:22:31,767 __main__ 117:DEBUG Finish at step 248/248
-2020-06-14 00:48:43,451 __main__ 83:INFO Training DQL
-2020-06-14 00:48:43,452 __main__ 85:INFO Training DQL
-2020-06-14 00:48:43,453 __main__ 94:DEBUG Running episode 0
-2020-06-14 00:48:43,454 __main__ 103:DEBUG Running step 0/248
-2020-06-14 00:48:43,804 __main__ 103:DEBUG Running step 100/248
-2020-06-14 00:57:50,863 __main__ 83:INFO Training DQL
-2020-06-14 00:57:50,865 __main__ 85:INFO Training DQL
-2020-06-14 00:57:50,868 __main__ 94:DEBUG Running episode 0
-2020-06-14 00:57:50,872 __main__ 103:DEBUG Running step 0/248
-2020-06-14 00:57:51,204 __main__ 103:DEBUG Running step 100/248
-2020-06-14 00:57:55,731 __main__ 103:DEBUG Running step 200/248
-2020-06-14 00:57:57,725 __main__ 139:DEBUG Finish at step 248/248
-2020-06-14 00:57:57,726 __main__ 94:DEBUG Running episode 1
-2020-06-14 00:57:57,727 __main__ 103:DEBUG Running step 0/248
-2020-06-14 00:58:01,823 __main__ 103:DEBUG Running step 100/248
-2020-06-14 00:58:06,025 __main__ 103:DEBUG Running step 200/248
-2020-06-14 00:58:08,049 __main__ 139:DEBUG Finish at step 248/248
-2020-06-14 00:58:08,049 __main__ 94:DEBUG Running episode 2
-2020-06-14 00:58:08,050 __main__ 103:DEBUG Running step 0/248
-2020-06-14 00:58:12,142 __main__ 103:DEBUG Running step 100/248
-2020-06-14 00:58:16,339 __main__ 103:DEBUG Running step 200/248
-2020-06-14 00:58:18,359 __main__ 139:DEBUG Finish at step 248/248
-2020-06-14 00:58:18,359 __main__ 94:DEBUG Running episode 3
-2020-06-14 00:58:18,360 __main__ 103:DEBUG Running step 0/248
-2020-06-14 00:58:22,491 __main__ 103:DEBUG Running step 100/248
-2020-06-14 00:58:26,604 __main__ 103:DEBUG Running step 200/248
-2020-06-14 00:58:28,609 __main__ 139:DEBUG Finish at step 248/248
-2020-06-14 00:58:28,609 __main__ 94:DEBUG Running episode 4
-2020-06-14 00:58:28,610 __main__ 103:DEBUG Running step 0/248
-2020-06-14 00:58:32,756 __main__ 103:DEBUG Running step 100/248
-2020-06-14 00:58:36,859 __main__ 103:DEBUG Running step 200/248
-2020-06-14 00:58:38,858 __main__ 139:DEBUG Finish at step 248/248
-2020-06-14 01:12:52,095 __main__ 83:INFO Training DQL
-2020-06-14 01:12:52,097 __main__ 85:INFO Training DQL
-2020-06-14 01:12:52,100 __main__ 94:DEBUG Running episode 0
-2020-06-14 01:12:52,105 __main__ 103:DEBUG Running step 0/248
-2020-06-14 01:12:52,938 __main__ 103:DEBUG Running step 100/248
-2020-06-14 01:13:21,648 __main__ 103:DEBUG Running step 200/248
-2020-06-14 01:13:34,665 __main__ 139:DEBUG Finish at step 248/248
-2020-06-14 01:13:34,666 __main__ 94:DEBUG Running episode 1
-2020-06-14 01:13:34,666 __main__ 103:DEBUG Running step 0/248
-2020-06-14 01:14:01,222 __main__ 103:DEBUG Running step 100/248
-2020-06-14 01:14:28,080 __main__ 103:DEBUG Running step 200/248
-2020-06-14 01:14:41,057 __main__ 139:DEBUG Finish at step 248/248
-2020-06-14 01:14:41,057 __main__ 94:DEBUG Running episode 2
-2020-06-14 01:14:41,058 __main__ 103:DEBUG Running step 0/248
-2020-06-14 01:15:07,498 __main__ 103:DEBUG Running step 100/248
-2020-06-14 01:15:33,754 __main__ 103:DEBUG Running step 200/248
-2020-06-14 01:15:46,731 __main__ 139:DEBUG Finish at step 248/248
-2020-06-14 01:15:46,732 __main__ 94:DEBUG Running episode 3
-2020-06-14 01:15:46,733 __main__ 103:DEBUG Running step 0/248
-2020-06-14 01:16:13,353 __main__ 103:DEBUG Running step 100/248
-2020-06-14 01:16:39,749 __main__ 103:DEBUG Running step 200/248
-2020-06-14 01:16:52,795 __main__ 139:DEBUG Finish at step 248/248
-2020-06-14 01:16:52,795 __main__ 94:DEBUG Running episode 4
-2020-06-14 01:16:52,796 __main__ 103:DEBUG Running step 0/248
-2020-06-14 01:17:19,316 __main__ 103:DEBUG Running step 100/248
-2020-06-14 01:17:46,958 __main__ 103:DEBUG Running step 200/248
-2020-06-14 01:17:59,959 __main__ 139:DEBUG Finish at step 248/248
-2020-06-14 02:24:34,668 __main__ 83:INFO Training DQL
-2020-06-14 02:24:34,670 __main__ 88:DEBUG Running episode 0
-2020-06-14 02:24:34,674 __main__ 97:DEBUG Running step 0/248
-2020-06-14 02:24:35,372 __main__ 97:DEBUG Running step 100/248
-2020-06-14 02:24:41,808 __main__ 97:DEBUG Running step 200/248
-2020-06-14 02:24:44,258 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 02:24:44,259 __main__ 88:DEBUG Running episode 1
-2020-06-14 02:24:44,259 __main__ 97:DEBUG Running step 0/248
-2020-06-14 02:24:49,306 __main__ 97:DEBUG Running step 100/248
-2020-06-14 02:24:54,377 __main__ 97:DEBUG Running step 200/248
-2020-06-14 02:24:56,918 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 02:24:56,919 __main__ 88:DEBUG Running episode 2
-2020-06-14 02:24:56,920 __main__ 97:DEBUG Running step 0/248
-2020-06-14 02:25:01,891 __main__ 97:DEBUG Running step 100/248
-2020-06-14 02:25:06,961 __main__ 97:DEBUG Running step 200/248
-2020-06-14 02:25:09,401 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 02:25:09,401 __main__ 88:DEBUG Running episode 3
-2020-06-14 02:25:09,402 __main__ 97:DEBUG Running step 0/248
-2020-06-14 02:25:14,421 __main__ 97:DEBUG Running step 100/248
-2020-06-14 02:25:19,450 __main__ 97:DEBUG Running step 200/248
-2020-06-14 02:25:21,899 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 02:25:21,900 __main__ 88:DEBUG Running episode 4
-2020-06-14 02:25:21,901 __main__ 97:DEBUG Running step 0/248
-2020-06-14 02:25:27,004 __main__ 97:DEBUG Running step 100/248
-2020-06-14 02:25:32,059 __main__ 97:DEBUG Running step 200/248
-2020-06-14 02:25:34,518 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:07:04,720 __main__ 83:INFO Training DQL
-2020-06-14 03:07:04,722 __main__ 88:DEBUG Running episode 0
-2020-06-14 03:07:04,727 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:07:05,310 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:07:10,162 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:07:12,753 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:07:12,755 __main__ 88:DEBUG Running episode 1
-2020-06-14 03:07:12,756 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:07:17,525 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:07:21,942 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:07:24,043 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:07:24,044 __main__ 88:DEBUG Running episode 2
-2020-06-14 03:07:24,045 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:07:28,603 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:07:33,205 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:07:35,637 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:07:35,637 __main__ 88:DEBUG Running episode 3
-2020-06-14 03:07:35,638 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:07:40,518 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:07:46,212 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:07:48,839 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:07:48,840 __main__ 88:DEBUG Running episode 4
-2020-06-14 03:07:48,841 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:07:53,485 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:07:57,942 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:08:00,216 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:11:33,005 __main__ 83:INFO Training DQL
-2020-06-14 03:11:33,009 __main__ 88:DEBUG Running episode 0
-2020-06-14 03:11:33,011 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:11:33,657 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:11:39,105 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:11:41,170 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:11:41,170 __main__ 88:DEBUG Running episode 1
-2020-06-14 03:11:41,171 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:11:45,396 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:11:49,610 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:11:51,687 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:11:51,688 __main__ 88:DEBUG Running episode 2
-2020-06-14 03:11:51,688 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:11:55,917 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:12:00,144 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:12:02,208 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:12:02,208 __main__ 88:DEBUG Running episode 3
-2020-06-14 03:12:02,209 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:12:06,638 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:12:11,654 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:12:14,064 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:12:14,065 __main__ 88:DEBUG Running episode 4
-2020-06-14 03:12:14,065 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:12:19,149 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:12:23,445 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:12:25,650 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:15:15,416 __main__ 83:INFO Training DQL
-2020-06-14 03:15:15,418 __main__ 88:DEBUG Running episode 0
-2020-06-14 03:15:15,421 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:15:16,119 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:15:22,531 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:15:24,978 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:15:24,979 __main__ 88:DEBUG Running episode 1
-2020-06-14 03:15:24,980 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:15:30,481 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:15:35,722 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:15:38,277 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:15:38,278 __main__ 88:DEBUG Running episode 2
-2020-06-14 03:15:38,279 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:15:43,318 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:15:48,809 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:15:51,347 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:15:51,348 __main__ 88:DEBUG Running episode 3
-2020-06-14 03:15:51,349 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:15:56,906 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:16:02,509 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:16:05,088 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:16:05,089 __main__ 88:DEBUG Running episode 4
-2020-06-14 03:16:05,089 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:16:10,173 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:16:15,504 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:16:17,917 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:16:25,268 __main__ 83:INFO Training DQL
-2020-06-14 03:16:25,270 __main__ 88:DEBUG Running episode 0
-2020-06-14 03:16:25,271 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:16:25,950 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:16:31,926 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:16:34,121 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:16:34,121 __main__ 88:DEBUG Running episode 1
-2020-06-14 03:16:34,122 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:16:39,054 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:16:44,220 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:16:46,547 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:16:46,548 __main__ 88:DEBUG Running episode 2
-2020-06-14 03:16:46,549 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:16:50,959 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:16:55,352 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:16:57,501 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:16:57,501 __main__ 88:DEBUG Running episode 3
-2020-06-14 03:16:57,502 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:17:01,826 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:17:06,955 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:17:09,750 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:17:09,751 __main__ 88:DEBUG Running episode 4
-2020-06-14 03:17:09,752 __main__ 97:DEBUG Running step 0/248
-2020-06-14 03:17:14,707 __main__ 97:DEBUG Running step 100/248
-2020-06-14 03:17:19,055 __main__ 97:DEBUG Running step 200/248
-2020-06-14 03:17:21,195 __main__ 138:DEBUG Finish at step 248/248
-2020-06-14 03:27:43,376 __main__ 83:INFO Training DQL
-2020-06-14 03:27:43,379 __main__ 92:DEBUG Running episode 0
-2020-06-14 03:27:43,383 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:27:44,080 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:27:49,306 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:27:51,432 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:27:51,433 __main__ 92:DEBUG Running episode 1
-2020-06-14 03:27:51,433 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:27:55,771 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:28:00,115 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:28:02,243 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:28:02,244 __main__ 92:DEBUG Running episode 2
-2020-06-14 03:28:02,245 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:28:06,723 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:28:11,084 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:28:13,316 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:28:13,316 __main__ 92:DEBUG Running episode 3
-2020-06-14 03:28:13,317 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:28:17,868 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:28:22,209 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:28:24,346 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:28:24,347 __main__ 92:DEBUG Running episode 4
-2020-06-14 03:28:24,348 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:28:28,691 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:28:33,029 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:28:35,158 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:35:20,583 __main__ 83:INFO Training DQL
-2020-06-14 03:35:20,587 __main__ 92:DEBUG Running episode 0
-2020-06-14 03:35:20,590 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:35:21,331 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:35:26,522 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:35:28,675 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:35:28,676 __main__ 92:DEBUG Running episode 1
-2020-06-14 03:35:28,676 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:35:33,065 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:35:37,441 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:35:39,587 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:35:39,588 __main__ 92:DEBUG Running episode 2
-2020-06-14 03:35:39,588 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:35:43,980 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:35:48,386 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:35:50,540 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:35:50,541 __main__ 92:DEBUG Running episode 3
-2020-06-14 03:35:50,541 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:35:54,919 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:35:59,302 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:36:01,451 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:36:01,451 __main__ 92:DEBUG Running episode 4
-2020-06-14 03:36:01,452 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:36:05,942 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:36:10,342 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:36:12,484 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:36:12,485 __main__ 92:DEBUG Running episode 5
-2020-06-14 03:36:12,485 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:36:16,885 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:36:21,281 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:36:23,430 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:36:23,430 __main__ 92:DEBUG Running episode 6
-2020-06-14 03:36:23,431 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:36:27,829 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:36:32,241 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:36:34,397 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:36:34,398 __main__ 92:DEBUG Running episode 7
-2020-06-14 03:36:34,398 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:36:38,795 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:36:43,184 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:36:45,339 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:36:45,340 __main__ 92:DEBUG Running episode 8
-2020-06-14 03:36:45,340 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:36:49,734 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:36:54,106 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:36:56,258 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:36:56,259 __main__ 92:DEBUG Running episode 9
-2020-06-14 03:36:56,260 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:37:00,655 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:37:05,040 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:37:07,198 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:37:07,199 __main__ 92:DEBUG Running episode 10
-2020-06-14 03:37:07,200 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:37:11,599 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:37:15,988 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:37:18,137 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:37:18,138 __main__ 92:DEBUG Running episode 11
-2020-06-14 03:37:18,139 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:37:22,535 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:37:26,922 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:37:29,074 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:37:29,075 __main__ 92:DEBUG Running episode 12
-2020-06-14 03:37:29,076 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:37:33,479 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:37:37,871 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:37:40,018 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:37:40,019 __main__ 92:DEBUG Running episode 13
-2020-06-14 03:37:40,020 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:37:44,409 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:37:48,804 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:37:50,966 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:37:50,967 __main__ 92:DEBUG Running episode 14
-2020-06-14 03:37:50,968 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:37:55,365 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:37:59,740 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:38:01,896 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:38:01,897 __main__ 92:DEBUG Running episode 15
-2020-06-14 03:38:01,897 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:38:06,353 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:38:10,759 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:38:12,912 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:38:12,913 __main__ 92:DEBUG Running episode 16
-2020-06-14 03:38:12,914 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:38:17,332 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:38:21,724 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:38:23,877 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:38:23,878 __main__ 92:DEBUG Running episode 17
-2020-06-14 03:38:23,878 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:38:28,287 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:38:32,674 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:38:34,830 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:38:34,831 __main__ 92:DEBUG Running episode 18
-2020-06-14 03:38:34,832 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:38:39,218 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:38:43,604 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:38:45,753 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:38:45,754 __main__ 92:DEBUG Running episode 19
-2020-06-14 03:38:45,754 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:38:50,161 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:38:54,843 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:38:57,003 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:38:57,003 __main__ 92:DEBUG Running episode 20
-2020-06-14 03:38:57,004 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:39:01,399 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:39:05,805 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:39:07,990 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:39:07,990 __main__ 92:DEBUG Running episode 21
-2020-06-14 03:39:07,991 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:39:12,376 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:39:16,763 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:39:18,925 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:39:18,926 __main__ 92:DEBUG Running episode 22
-2020-06-14 03:39:18,927 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:39:23,318 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:39:27,711 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:39:29,871 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:39:29,871 __main__ 92:DEBUG Running episode 23
-2020-06-14 03:39:29,872 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:39:34,258 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:39:38,690 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:39:40,838 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:39:40,838 __main__ 92:DEBUG Running episode 24
-2020-06-14 03:39:40,839 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:39:45,223 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:39:49,613 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:39:51,759 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:39:51,760 __main__ 92:DEBUG Running episode 25
-2020-06-14 03:39:51,760 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:39:56,152 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:40:00,545 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:40:02,701 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:40:02,702 __main__ 92:DEBUG Running episode 26
-2020-06-14 03:40:02,703 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:40:07,229 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:40:11,632 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:40:13,879 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:40:13,880 __main__ 92:DEBUG Running episode 27
-2020-06-14 03:40:13,881 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:40:18,271 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:40:22,655 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:40:24,807 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:40:24,808 __main__ 92:DEBUG Running episode 28
-2020-06-14 03:40:24,808 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:40:29,214 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:40:33,596 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:40:35,751 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:40:35,752 __main__ 92:DEBUG Running episode 29
-2020-06-14 03:40:35,753 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:40:40,147 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:40:44,527 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:40:46,684 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:40:46,684 __main__ 92:DEBUG Running episode 30
-2020-06-14 03:40:46,685 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:40:51,083 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:40:55,463 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:40:57,627 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:40:57,628 __main__ 92:DEBUG Running episode 31
-2020-06-14 03:40:57,628 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:41:02,038 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:41:06,437 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:41:08,594 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:41:08,595 __main__ 92:DEBUG Running episode 32
-2020-06-14 03:41:08,596 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:41:12,988 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:41:17,386 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:41:19,545 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:41:19,546 __main__ 92:DEBUG Running episode 33
-2020-06-14 03:41:19,547 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:41:23,953 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:41:28,347 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:41:30,497 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:41:30,498 __main__ 92:DEBUG Running episode 34
-2020-06-14 03:41:30,499 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:41:34,894 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:41:39,300 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:41:41,464 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:41:41,465 __main__ 92:DEBUG Running episode 35
-2020-06-14 03:41:41,465 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:41:45,890 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:41:50,285 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:41:52,445 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:41:52,445 __main__ 92:DEBUG Running episode 36
-2020-06-14 03:41:52,446 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:41:57,390 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:42:01,800 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:42:03,963 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:42:03,964 __main__ 92:DEBUG Running episode 37
-2020-06-14 03:42:03,965 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:42:08,529 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:42:12,925 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:42:15,087 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:42:15,088 __main__ 92:DEBUG Running episode 38
-2020-06-14 03:42:15,088 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:42:19,494 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:42:23,889 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:42:26,052 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:42:26,053 __main__ 92:DEBUG Running episode 39
-2020-06-14 03:42:26,054 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:42:30,467 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:42:34,871 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:42:37,063 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:42:37,064 __main__ 92:DEBUG Running episode 40
-2020-06-14 03:42:37,065 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:42:41,536 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:42:46,110 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:42:48,402 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:42:48,403 __main__ 92:DEBUG Running episode 41
-2020-06-14 03:42:48,403 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:42:52,873 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:42:57,445 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:42:59,732 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:42:59,732 __main__ 92:DEBUG Running episode 42
-2020-06-14 03:42:59,733 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:43:04,188 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:43:08,671 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:43:10,873 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:43:10,873 __main__ 92:DEBUG Running episode 43
-2020-06-14 03:43:10,874 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:43:15,285 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:43:19,684 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:43:21,848 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:43:21,849 __main__ 92:DEBUG Running episode 44
-2020-06-14 03:43:21,849 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:43:26,265 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:43:30,672 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:43:32,832 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:43:32,833 __main__ 92:DEBUG Running episode 45
-2020-06-14 03:43:32,834 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:43:37,236 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:43:41,633 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:43:43,787 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:43:43,788 __main__ 92:DEBUG Running episode 46
-2020-06-14 03:43:43,789 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:43:48,182 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:43:52,679 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:43:54,843 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:43:54,844 __main__ 92:DEBUG Running episode 47
-2020-06-14 03:43:54,845 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:43:59,233 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:44:03,637 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:44:05,927 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:44:05,927 __main__ 92:DEBUG Running episode 48
-2020-06-14 03:44:05,928 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:44:10,374 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:44:14,950 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:44:17,138 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:44:17,139 __main__ 92:DEBUG Running episode 49
-2020-06-14 03:44:17,140 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:44:21,548 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:44:25,943 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:44:28,096 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:44:28,097 __main__ 92:DEBUG Running episode 50
-2020-06-14 03:44:28,097 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:44:32,495 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:44:36,896 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:44:39,066 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:44:39,066 __main__ 92:DEBUG Running episode 51
-2020-06-14 03:44:39,067 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:44:43,476 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:44:47,905 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:44:50,080 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:44:50,080 __main__ 92:DEBUG Running episode 52
-2020-06-14 03:44:50,081 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:44:54,493 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:44:58,890 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:45:01,053 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:45:01,054 __main__ 92:DEBUG Running episode 53
-2020-06-14 03:45:01,055 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:45:05,485 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:45:10,052 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:45:12,298 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:45:12,298 __main__ 92:DEBUG Running episode 54
-2020-06-14 03:45:12,299 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:45:16,703 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:45:21,120 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:45:23,281 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:45:23,282 __main__ 92:DEBUG Running episode 55
-2020-06-14 03:45:23,283 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:45:27,670 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:45:32,080 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:45:34,234 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:45:34,235 __main__ 92:DEBUG Running episode 56
-2020-06-14 03:45:34,236 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:45:38,642 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:45:43,038 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:45:45,208 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:45:45,209 __main__ 92:DEBUG Running episode 57
-2020-06-14 03:45:45,210 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:45:49,612 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:45:53,999 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:45:56,149 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:45:56,149 __main__ 92:DEBUG Running episode 58
-2020-06-14 03:45:56,150 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:46:00,581 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:46:05,156 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:46:07,342 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:46:07,343 __main__ 92:DEBUG Running episode 59
-2020-06-14 03:46:07,344 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:46:11,791 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:46:16,246 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:46:18,431 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:46:18,431 __main__ 92:DEBUG Running episode 60
-2020-06-14 03:46:18,432 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:46:22,827 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:46:27,234 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:46:29,390 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:46:29,390 __main__ 92:DEBUG Running episode 61
-2020-06-14 03:46:29,391 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:46:33,809 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:46:38,216 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:46:40,380 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:46:40,380 __main__ 92:DEBUG Running episode 62
-2020-06-14 03:46:40,381 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:46:44,796 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:46:49,201 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:46:51,364 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:46:51,365 __main__ 92:DEBUG Running episode 63
-2020-06-14 03:46:51,366 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:46:55,780 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:47:00,195 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:47:02,358 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:47:02,359 __main__ 92:DEBUG Running episode 64
-2020-06-14 03:47:02,360 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:47:06,747 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:47:11,157 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:47:13,334 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:47:13,335 __main__ 92:DEBUG Running episode 65
-2020-06-14 03:47:13,335 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:47:17,751 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:47:22,156 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:47:24,320 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:47:24,320 __main__ 92:DEBUG Running episode 66
-2020-06-14 03:47:24,321 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:47:28,712 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:47:33,125 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:47:35,285 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:47:35,285 __main__ 92:DEBUG Running episode 67
-2020-06-14 03:47:35,286 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:47:39,700 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:47:44,091 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:47:46,251 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:47:46,252 __main__ 92:DEBUG Running episode 68
-2020-06-14 03:47:46,252 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:47:50,654 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:47:55,041 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:47:57,209 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:47:57,209 __main__ 92:DEBUG Running episode 69
-2020-06-14 03:47:57,210 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:48:01,606 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:48:06,139 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:48:08,316 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:48:08,317 __main__ 92:DEBUG Running episode 70
-2020-06-14 03:48:08,317 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:48:12,710 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:48:17,113 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:48:19,295 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:48:19,296 __main__ 92:DEBUG Running episode 71
-2020-06-14 03:48:19,296 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:48:23,706 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:48:28,110 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:48:30,263 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:48:30,264 __main__ 92:DEBUG Running episode 72
-2020-06-14 03:48:30,264 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:48:34,669 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:48:39,081 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:48:41,238 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:48:41,239 __main__ 92:DEBUG Running episode 73
-2020-06-14 03:48:41,240 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:48:45,635 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:48:50,039 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:48:52,271 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:48:52,272 __main__ 92:DEBUG Running episode 74
-2020-06-14 03:48:52,272 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:48:56,695 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:49:01,249 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:49:03,403 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:49:03,403 __main__ 92:DEBUG Running episode 75
-2020-06-14 03:49:03,404 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:49:07,813 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:49:12,223 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:49:14,384 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:49:14,385 __main__ 92:DEBUG Running episode 76
-2020-06-14 03:49:14,386 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:49:18,806 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:49:23,217 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:49:25,380 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:49:25,380 __main__ 92:DEBUG Running episode 77
-2020-06-14 03:49:25,381 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:49:29,785 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:49:34,193 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:49:36,677 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:49:36,678 __main__ 92:DEBUG Running episode 78
-2020-06-14 03:49:36,679 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:49:41,231 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:49:45,701 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:49:47,868 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:49:47,869 __main__ 92:DEBUG Running episode 79
-2020-06-14 03:49:47,870 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:49:52,296 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:49:56,694 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:49:58,872 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:49:58,873 __main__ 92:DEBUG Running episode 80
-2020-06-14 03:49:58,874 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:50:03,286 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:50:07,807 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:50:09,975 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:50:09,975 __main__ 92:DEBUG Running episode 81
-2020-06-14 03:50:09,976 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:50:14,374 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:50:18,777 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:50:20,941 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:50:20,942 __main__ 92:DEBUG Running episode 82
-2020-06-14 03:50:20,942 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:50:25,362 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:50:29,774 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:50:31,934 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:50:31,934 __main__ 92:DEBUG Running episode 83
-2020-06-14 03:50:31,935 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:50:36,358 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:50:40,764 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:50:42,922 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:50:42,922 __main__ 92:DEBUG Running episode 84
-2020-06-14 03:50:42,923 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:50:47,326 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:50:51,755 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:50:53,922 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:50:53,923 __main__ 92:DEBUG Running episode 85
-2020-06-14 03:50:53,923 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:50:58,374 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:51:02,858 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:51:05,072 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:51:05,072 __main__ 92:DEBUG Running episode 86
-2020-06-14 03:51:05,073 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:51:09,483 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:51:13,884 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:51:16,037 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:51:16,038 __main__ 92:DEBUG Running episode 87
-2020-06-14 03:51:16,039 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:51:20,453 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:51:24,847 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:51:26,993 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:51:26,993 __main__ 92:DEBUG Running episode 88
-2020-06-14 03:51:26,994 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:51:31,389 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:51:35,780 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:51:37,940 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:51:37,941 __main__ 92:DEBUG Running episode 89
-2020-06-14 03:51:37,942 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:51:42,406 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:51:46,813 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:51:48,977 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:51:48,977 __main__ 92:DEBUG Running episode 90
-2020-06-14 03:51:48,978 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:51:53,425 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:51:57,841 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:52:00,008 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:52:00,008 __main__ 92:DEBUG Running episode 91
-2020-06-14 03:52:00,009 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:52:04,433 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:52:08,871 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:52:11,031 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:52:11,032 __main__ 92:DEBUG Running episode 92
-2020-06-14 03:52:11,033 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:52:15,436 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:52:19,857 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:52:22,012 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:52:22,013 __main__ 92:DEBUG Running episode 93
-2020-06-14 03:52:22,014 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:52:26,715 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:52:31,290 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:52:33,457 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:52:33,458 __main__ 92:DEBUG Running episode 94
-2020-06-14 03:52:33,458 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:52:37,857 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:52:42,263 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:52:44,508 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:52:44,509 __main__ 92:DEBUG Running episode 95
-2020-06-14 03:52:44,510 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:52:49,320 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:52:53,770 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:52:55,929 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:52:55,930 __main__ 92:DEBUG Running episode 96
-2020-06-14 03:52:55,931 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:53:00,346 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:53:04,748 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:53:06,907 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:53:06,907 __main__ 92:DEBUG Running episode 97
-2020-06-14 03:53:06,908 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:53:11,327 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:53:15,726 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:53:17,885 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:53:17,885 __main__ 92:DEBUG Running episode 98
-2020-06-14 03:53:17,886 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:53:22,294 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:53:26,983 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:53:29,457 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 03:53:29,458 __main__ 92:DEBUG Running episode 99
-2020-06-14 03:53:29,459 __main__ 101:DEBUG Running step 0/248
-2020-06-14 03:53:34,020 __main__ 101:DEBUG Running step 100/248
-2020-06-14 03:53:38,476 __main__ 101:DEBUG Running step 200/248
-2020-06-14 03:53:40,688 __main__ 145:DEBUG Finish at step 248/248
-2020-06-14 16:10:14,314 __main__ 83:INFO Training DQL
-2020-06-14 16:10:14,315 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-14 16:10:31,429 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:10:55,398 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:11:19,063 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:11:43,055 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:12:06,748 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:12:30,524 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:12:54,257 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:13:18,023 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:13:41,821 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:14:07,254 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:14:07,255 __main__ 92:DEBUG Running episode 10 with 249 steps
-2020-06-14 16:14:32,014 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:14:57,196 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:15:21,711 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:15:46,228 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:16:10,547 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:16:34,643 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:16:59,228 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:17:23,079 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:17:47,179 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:18:11,097 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:18:11,098 __main__ 92:DEBUG Running episode 20 with 249 steps
-2020-06-14 16:18:34,963 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:18:59,349 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:19:23,223 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:19:47,263 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:20:11,131 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:20:35,027 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:20:58,882 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:21:22,736 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:21:46,841 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:22:10,802 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:22:10,803 __main__ 92:DEBUG Running episode 30 with 249 steps
-2020-06-14 16:22:34,596 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:22:58,478 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:23:22,332 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:23:46,534 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:24:10,709 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:24:34,557 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:24:58,438 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:25:22,312 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:25:46,740 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:26:10,646 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:26:10,648 __main__ 92:DEBUG Running episode 40 with 249 steps
-2020-06-14 16:26:34,615 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:26:58,422 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:27:22,235 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:27:46,228 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:28:10,105 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:28:33,946 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:28:58,032 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:29:21,866 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:29:45,834 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:30:09,678 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:30:09,679 __main__ 92:DEBUG Running episode 50 with 249 steps
-2020-06-14 16:30:33,496 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:30:57,308 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:31:21,368 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:31:45,827 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:32:09,545 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:32:33,290 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:32:57,051 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:33:20,912 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:33:45,037 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:34:08,918 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:34:08,919 __main__ 92:DEBUG Running episode 60 with 249 steps
-2020-06-14 16:34:32,682 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:34:56,457 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:35:20,238 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:35:44,514 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:36:08,384 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:36:32,144 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:36:56,043 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:37:19,808 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:37:43,928 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:38:07,716 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:38:07,717 __main__ 92:DEBUG Running episode 70 with 249 steps
-2020-06-14 16:38:31,444 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:38:55,313 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:39:19,107 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:39:43,175 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:40:07,758 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:40:32,339 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:40:56,141 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:41:19,972 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:41:43,825 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:42:07,559 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:42:07,560 __main__ 92:DEBUG Running episode 80 with 249 steps
-2020-06-14 16:42:32,017 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:42:56,001 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:43:20,571 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:43:45,770 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:44:11,278 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:44:36,960 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:45:03,282 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:45:29,082 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:45:55,542 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:46:19,705 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:46:19,706 __main__ 92:DEBUG Running episode 90 with 249 steps
-2020-06-14 16:46:43,285 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:47:06,861 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:47:30,410 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:47:54,039 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:48:17,593 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:48:41,153 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:49:05,022 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:49:28,640 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:49:52,610 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 16:50:16,251 __main__ 141:DEBUG Finish at step 248/248
-2020-06-14 19:08:15,731 __main__ 83:INFO Training DQL
-2020-06-14 19:08:15,733 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-14 19:12:09,373 __main__ 92:DEBUG Running episode 10 with 249 steps
-2020-06-14 19:16:15,547 __main__ 92:DEBUG Running episode 20 with 249 steps
-2020-06-14 19:20:14,775 __main__ 92:DEBUG Running episode 30 with 249 steps
-2020-06-14 19:24:16,732 __main__ 92:DEBUG Running episode 40 with 249 steps
-2020-06-14 19:28:18,446 __main__ 92:DEBUG Running episode 50 with 249 steps
-2020-06-14 19:32:18,724 __main__ 92:DEBUG Running episode 60 with 249 steps
-2020-06-14 19:36:20,296 __main__ 92:DEBUG Running episode 70 with 249 steps
-2020-06-14 19:40:28,460 __main__ 92:DEBUG Running episode 80 with 249 steps
-2020-06-14 19:44:29,562 __main__ 92:DEBUG Running episode 90 with 249 steps
-2020-06-14 23:10:01,417 __main__ 149:INFO Training DQL
-2020-06-14 23:10:01,424 __main__ 155:DEBUG Running episode 0 with 249 steps
-2020-06-14 23:11:55,179 __main__ 155:DEBUG Running episode 10 with 249 steps
-2020-06-14 23:13:51,968 __main__ 155:DEBUG Running episode 20 with 249 steps
-2020-06-14 23:15:48,833 __main__ 155:DEBUG Running episode 30 with 249 steps
-2020-06-14 23:17:45,357 __main__ 155:DEBUG Running episode 40 with 249 steps
-2020-06-14 23:19:43,289 __main__ 155:DEBUG Running episode 50 with 249 steps
-2020-06-14 23:21:50,709 __main__ 155:DEBUG Running episode 60 with 249 steps
-2020-06-14 23:23:47,287 __main__ 155:DEBUG Running episode 70 with 249 steps
-2020-06-14 23:25:57,210 __main__ 155:DEBUG Running episode 80 with 249 steps
-2020-06-14 23:27:54,308 __main__ 155:DEBUG Running episode 90 with 249 steps
-2020-06-14 23:33:38,059 __main__ 83:INFO Training DQL
-2020-06-14 23:33:38,062 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-14 23:42:26,848 __main__ 92:DEBUG Running episode 10 with 249 steps
-2020-06-14 23:51:31,548 __main__ 92:DEBUG Running episode 20 with 249 steps
-2020-06-15 00:00:37,738 __main__ 92:DEBUG Running episode 30 with 249 steps
-2020-06-15 00:16:26,965 __main__ 92:DEBUG Running episode 40 with 249 steps
-2020-06-15 00:25:37,251 __main__ 92:DEBUG Running episode 50 with 249 steps
-2020-06-15 00:34:55,787 __main__ 92:DEBUG Running episode 60 with 249 steps
-2020-06-15 00:44:12,501 __main__ 92:DEBUG Running episode 70 with 249 steps
-2020-06-15 00:53:30,635 __main__ 92:DEBUG Running episode 80 with 249 steps
-2020-06-15 01:02:48,267 __main__ 92:DEBUG Running episode 90 with 249 steps
-2020-06-15 01:21:24,228 __main__ 149:INFO Training DQL with target network
-2020-06-15 01:21:24,229 __main__ 158:DEBUG Running episode 0 with 249 steps
-2020-06-15 01:23:19,911 __main__ 158:DEBUG Running episode 10 with 249 steps
-2020-06-15 01:25:17,964 __main__ 158:DEBUG Running episode 20 with 249 steps
-2020-06-15 01:27:16,091 __main__ 158:DEBUG Running episode 30 with 249 steps
-2020-06-15 01:29:14,329 __main__ 158:DEBUG Running episode 40 with 249 steps
-2020-06-15 01:31:12,401 __main__ 158:DEBUG Running episode 50 with 249 steps
-2020-06-15 01:33:11,014 __main__ 158:DEBUG Running episode 60 with 249 steps
-2020-06-15 01:35:09,489 __main__ 158:DEBUG Running episode 70 with 249 steps
-2020-06-15 01:37:08,141 __main__ 158:DEBUG Running episode 80 with 249 steps
-2020-06-15 01:39:07,047 __main__ 158:DEBUG Running episode 90 with 249 steps
+2020-06-16 19:40:08,028 __main__ 2:INFO Plot AAPL candlestick
+2020-06-16 19:40:09,653 __main__ 2:INFO Plot AAPL cummulative returns
+2020-06-16 20:39:24,524 __main__ 83:INFO Training DQL
+2020-06-16 20:39:24,526 __main__ 92:DEBUG Running episode 0 with 249 steps
+2020-06-16 20:39:33,713 __main__ 83:INFO Training DQL
+2020-06-16 20:39:33,715 __main__ 92:DEBUG Running episode 0 with 249 steps
+2020-06-16 20:40:34,460 __main__ 83:INFO Training DQL
+2020-06-16 20:40:34,462 __main__ 92:DEBUG Running episode 0 with 249 steps
+2020-06-16 20:42:08,674 __main__ 92:DEBUG Running episode 10 with 249 steps
+2020-06-16 20:43:46,494 __main__ 92:DEBUG Running episode 20 with 249 steps
+2020-06-16 20:45:24,728 __main__ 92:DEBUG Running episode 30 with 249 steps
+2020-06-16 20:47:02,817 __main__ 92:DEBUG Running episode 40 with 249 steps
+2020-06-16 20:48:07,691 __main__ 83:INFO Training DQL
+2020-06-16 20:48:07,692 __main__ 92:DEBUG Running episode 0 with 249 steps
+2020-06-16 20:49:04,272 __main__ 83:INFO Training DQL
+2020-06-16 20:49:04,274 __main__ 92:DEBUG Running episode 0 with 249 steps
+2020-06-16 20:50:55,317 __main__ 83:INFO Training DQL
+2020-06-16 20:50:55,318 __main__ 92:DEBUG Running episode 0 with 249 steps
+2020-06-16 20:52:28,485 __main__ 92:DEBUG Running episode 10 with 249 steps
+2020-06-16 20:54:04,657 __main__ 92:DEBUG Running episode 20 with 249 steps
+2020-06-16 20:55:40,704 __main__ 92:DEBUG Running episode 30 with 249 steps
+2020-06-16 20:57:17,118 __main__ 92:DEBUG Running episode 40 with 249 steps
+2020-06-16 20:58:53,971 __main__ 92:DEBUG Running episode 50 with 249 steps
+2020-06-16 21:00:30,623 __main__ 92:DEBUG Running episode 60 with 249 steps
+2020-06-16 21:02:07,233 __main__ 92:DEBUG Running episode 70 with 249 steps
+2020-06-16 21:03:43,811 __main__ 92:DEBUG Running episode 80 with 249 steps
+2020-06-16 21:05:20,370 __main__ 92:DEBUG Running episode 90 with 249 steps
+2020-06-16 21:09:02,315 __main__ 83:INFO Training DQL
+2020-06-16 21:09:02,317 __main__ 92:DEBUG Running episode 0 with 249 steps
+2020-06-16 21:09:08,276 __main__ 83:INFO Training DQL
+2020-06-16 21:09:08,278 __main__ 92:DEBUG Running episode 0 with 249 steps
+2020-06-16 21:10:49,324 __main__ 92:DEBUG Running episode 10 with 249 steps
+2020-06-16 21:12:32,687 __main__ 92:DEBUG Running episode 20 with 249 steps
+2020-06-16 21:14:16,111 __main__ 92:DEBUG Running episode 30 with 249 steps
+2020-06-16 21:16:00,885 __main__ 92:DEBUG Running episode 40 with 249 steps
+2020-06-16 21:38:44,943 __main__ 83:INFO Training DQL
+2020-06-16 21:38:44,945 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-16 21:40:31,071 __main__ 95:DEBUG Running episode 10 with 249 steps
+2020-06-16 21:42:20,853 __main__ 95:DEBUG Running episode 20 with 249 steps
+2020-06-16 21:44:10,534 __main__ 95:DEBUG Running episode 30 with 249 steps
+2020-06-16 21:46:03,845 __main__ 95:DEBUG Running episode 40 with 249 steps
+2020-06-16 21:52:52,693 __main__ 83:INFO Training DQL
+2020-06-16 21:52:52,695 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-16 21:54:47,742 __main__ 95:DEBUG Running episode 10 with 249 steps
+2020-06-16 21:56:48,612 __main__ 95:DEBUG Running episode 20 with 249 steps
+2020-06-16 21:58:39,727 __main__ 95:DEBUG Running episode 30 with 249 steps
+2020-06-16 22:00:31,209 __main__ 95:DEBUG Running episode 40 with 249 steps
+2020-06-16 22:09:40,239 __main__ 83:INFO Training DQL
+2020-06-16 22:09:40,242 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-16 22:11:23,576 __main__ 95:DEBUG Running episode 10 with 249 steps
+2020-06-16 22:13:09,369 __main__ 95:DEBUG Running episode 20 with 249 steps
+2020-06-16 22:15:05,433 __main__ 95:DEBUG Running episode 30 with 249 steps
+2020-06-16 22:17:01,887 __main__ 95:DEBUG Running episode 40 with 249 steps
+2020-06-16 22:59:25,933 __main__ 157:INFO Training DQL with target network
+2020-06-16 22:59:25,935 __main__ 169:DEBUG Running episode 0 with 249 steps
+2020-06-16 23:01:19,203 __main__ 169:DEBUG Running episode 10 with 249 steps
+2020-06-16 23:03:16,524 __main__ 169:DEBUG Running episode 20 with 249 steps
+2020-06-16 23:05:14,036 __main__ 169:DEBUG Running episode 30 with 249 steps
+2020-06-16 23:07:11,996 __main__ 169:DEBUG Running episode 40 with 249 steps
+2020-06-16 23:12:29,898 __main__ 83:INFO Training DQL
+2020-06-16 23:12:29,900 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-16 23:12:39,007 __main__ 83:INFO Training DQL
+2020-06-16 23:12:39,011 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-16 23:22:15,552 __main__ 95:DEBUG Running episode 10 with 249 steps
+2020-06-16 23:31:45,539 __main__ 95:DEBUG Running episode 20 with 249 steps
+2020-06-16 23:33:05,645 __main__ 83:INFO Training DQL
+2020-06-16 23:33:05,647 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-17 00:15:58,974 __main__ 83:INFO Training DQL
+2020-06-17 00:15:58,976 __main__ 95:DEBUG Running episode 0 with 237 steps
+2020-06-17 00:17:50,703 __main__ 95:DEBUG Running episode 10 with 237 steps
+2020-06-17 00:19:43,540 __main__ 95:DEBUG Running episode 20 with 237 steps
+2020-06-17 00:21:37,935 __main__ 95:DEBUG Running episode 30 with 237 steps
+2020-06-17 00:23:30,967 __main__ 95:DEBUG Running episode 40 with 237 steps
+2020-06-17 00:27:44,335 __main__ 83:INFO Training DQL
+2020-06-17 00:27:44,336 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-17 00:29:39,988 __main__ 95:DEBUG Running episode 10 with 249 steps
+2020-06-17 00:31:33,280 __main__ 95:DEBUG Running episode 20 with 249 steps
+2020-06-17 00:33:28,416 __main__ 83:INFO Training DQL
+2020-06-17 00:33:28,419 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-17 00:35:22,720 __main__ 95:DEBUG Running episode 10 with 249 steps
+2020-06-17 00:37:17,498 __main__ 95:DEBUG Running episode 20 with 249 steps
+2020-06-17 00:39:12,683 __main__ 95:DEBUG Running episode 30 with 249 steps
+2020-06-17 00:41:07,531 __main__ 95:DEBUG Running episode 40 with 249 steps
+2020-06-17 00:50:00,543 __main__ 83:INFO Training DQL
+2020-06-17 00:50:00,546 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-17 00:51:51,438 __main__ 95:DEBUG Running episode 10 with 249 steps
+2020-06-17 00:53:44,914 __main__ 95:DEBUG Running episode 20 with 249 steps
+2020-06-17 00:55:38,496 __main__ 95:DEBUG Running episode 30 with 249 steps
+2020-06-17 00:57:32,434 __main__ 95:DEBUG Running episode 40 with 249 steps
+2020-06-17 00:59:33,992 __main__ 157:INFO Training DQL with target network
+2020-06-17 00:59:33,993 __main__ 169:DEBUG Running episode 0 with 249 steps
+2020-06-17 01:01:29,762 __main__ 169:DEBUG Running episode 10 with 249 steps
+2020-06-17 01:03:28,537 __main__ 169:DEBUG Running episode 20 with 249 steps
+2020-06-17 01:05:27,919 __main__ 169:DEBUG Running episode 30 with 249 steps
+2020-06-17 01:07:27,169 __main__ 169:DEBUG Running episode 40 with 249 steps
+2020-06-17 01:09:34,402 __main__ 83:INFO Training DQL
+2020-06-17 01:09:34,403 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-17 01:18:37,735 __main__ 95:DEBUG Running episode 10 with 249 steps
+2020-06-17 08:06:33,251 __main__ 95:DEBUG Running episode 20 with 249 steps
+2020-06-17 08:42:10,933 __main__ 95:DEBUG Running episode 30 with 249 steps
+2020-06-17 09:01:52,514 __main__ 95:DEBUG Running episode 40 with 249 steps
+2020-06-17 09:21:53,362 __main__ 157:INFO Training DQL with target network
+2020-06-17 09:21:53,363 __main__ 169:DEBUG Running episode 0 with 249 steps
+2020-06-17 18:04:55,952 __main__ 83:INFO Training DQL
+2020-06-17 18:04:55,954 __main__ 95:DEBUG Running episode 0 with 249 steps
+2020-06-17 18:07:03,980 __main__ 95:DEBUG Running episode 10 with 249 steps
+2020-06-17 18:09:05,795 __main__ 95:DEBUG Running episode 20 with 249 steps
+2020-06-17 18:11:07,380 __main__ 95:DEBUG Running episode 30 with 249 steps
+2020-06-17 18:13:09,157 __main__ 95:DEBUG Running episode 40 with 249 steps
+2020-06-17 18:18:13,435 __main__ 83:INFO Training DQL
+2020-06-17 18:18:13,437 __main__ 95:DEBUG Running episode 0 with 124 steps
+2020-06-17 18:19:14,425 __main__ 95:DEBUG Running episode 10 with 124 steps
+2020-06-17 18:20:15,819 __main__ 95:DEBUG Running episode 20 with 124 steps
+2020-06-17 18:21:17,740 __main__ 95:DEBUG Running episode 30 with 124 steps
+2020-06-17 18:22:23,540 __main__ 95:DEBUG Running episode 40 with 124 steps
+2020-06-17 18:34:13,922 __main__ 83:INFO Training DQL
+2020-06-17 18:34:13,925 __main__ 95:DEBUG Running episode 0 with 124 steps
+2020-06-17 18:35:25,658 __main__ 95:DEBUG Running episode 10 with 124 steps
+2020-06-17 18:36:27,723 __main__ 95:DEBUG Running episode 20 with 124 steps
+2020-06-17 18:37:28,203 __main__ 95:DEBUG Running episode 30 with 124 steps
+2020-06-17 18:38:28,990 __main__ 95:DEBUG Running episode 40 with 124 steps
+2020-06-17 18:42:38,997 __main__ 83:INFO Training DQL
+2020-06-17 18:42:38,998 __main__ 95:DEBUG Running episode 0 with 124 steps
+2020-06-17 18:43:37,712 __main__ 95:DEBUG Running episode 10 with 124 steps
+2020-06-17 18:44:38,855 __main__ 95:DEBUG Running episode 20 with 124 steps
+2020-06-17 18:45:39,752 __main__ 95:DEBUG Running episode 30 with 124 steps
+2020-06-17 18:46:41,014 __main__ 95:DEBUG Running episode 40 with 124 steps
+2020-06-17 19:02:50,936 __main__ 83:INFO Training DQL
+2020-06-17 19:02:50,937 __main__ 95:DEBUG Running episode 0 with 124 steps
+2020-06-17 19:03:49,700 __main__ 95:DEBUG Running episode 10 with 124 steps
+2020-06-17 19:04:51,054 __main__ 95:DEBUG Running episode 20 with 124 steps
+2020-06-17 19:05:52,330 __main__ 95:DEBUG Running episode 30 with 124 steps
+2020-06-17 19:06:53,601 __main__ 95:DEBUG Running episode 40 with 124 steps
+2020-06-17 19:08:28,180 __main__ 157:INFO Training DQL with target network
+2020-06-17 19:08:28,183 __main__ 169:DEBUG Running episode 0 with 124 steps
+2020-06-17 19:09:31,496 __main__ 169:DEBUG Running episode 10 with 124 steps
+2020-06-17 19:10:36,065 __main__ 169:DEBUG Running episode 20 with 124 steps
+2020-06-17 19:11:42,151 __main__ 169:DEBUG Running episode 30 with 124 steps
+2020-06-17 19:12:50,739 __main__ 169:DEBUG Running episode 40 with 124 steps
+2020-06-17 19:15:02,412 __main__ 83:INFO Training DQL
+2020-06-17 19:15:02,416 __main__ 95:DEBUG Running episode 0 with 124 steps
+2020-06-17 19:20:32,487 __main__ 95:DEBUG Running episode 10 with 124 steps
+2020-06-17 19:26:28,404 __main__ 95:DEBUG Running episode 20 with 124 steps
+2020-06-17 19:31:53,667 __main__ 95:DEBUG Running episode 30 with 124 steps
+2020-06-17 19:36:44,155 __main__ 95:DEBUG Running episode 40 with 124 steps
+2020-06-17 19:42:45,863 __main__ 83:INFO Training DQL
+2020-06-17 19:42:45,864 __main__ 95:DEBUG Running episode 0 with 124 steps
+2020-06-17 19:43:46,943 __main__ 95:DEBUG Running episode 10 with 124 steps
+2020-06-17 19:44:50,389 __main__ 95:DEBUG Running episode 20 with 124 steps
+2020-06-17 19:45:53,704 __main__ 95:DEBUG Running episode 30 with 124 steps
+2020-06-17 19:46:56,989 __main__ 95:DEBUG Running episode 40 with 124 steps
+2020-06-17 19:50:53,153 __main__ 83:INFO Training DQL
+2020-06-17 19:50:53,154 __main__ 95:DEBUG Running episode 0 with 248 steps
+2020-06-17 19:53:00,548 __main__ 95:DEBUG Running episode 10 with 248 steps
+2020-06-17 19:55:08,594 __main__ 95:DEBUG Running episode 20 with 248 steps
+2020-06-17 19:57:16,749 __main__ 95:DEBUG Running episode 30 with 248 steps
+2020-06-17 19:59:24,829 __main__ 95:DEBUG Running episode 40 with 248 steps
+2020-06-17 20:03:35,637 __main__ 157:INFO Training DQL with target network
+2020-06-17 20:03:35,638 __main__ 169:DEBUG Running episode 0 with 496 steps
+2020-06-17 20:03:46,619 __main__ 157:INFO Training DQL with target network
+2020-06-17 20:03:46,620 __main__ 169:DEBUG Running episode 0 with 248 steps
+2020-06-17 20:05:57,891 __main__ 169:DEBUG Running episode 10 with 248 steps
+2020-06-17 20:08:06,996 __main__ 169:DEBUG Running episode 20 with 248 steps
+2020-06-17 20:10:17,658 __main__ 169:DEBUG Running episode 30 with 248 steps
+2020-06-17 20:12:27,007 __main__ 169:DEBUG Running episode 40 with 248 steps
+2020-06-17 20:17:50,645 __main__ 157:INFO Training DQL with target network
+2020-06-17 20:17:50,647 __main__ 169:DEBUG Running episode 0 with 251 steps
+2020-06-17 20:18:34,326 __main__ 157:INFO Training DQL with target network
+2020-06-17 20:18:34,328 __main__ 169:DEBUG Running episode 0 with 248 steps
+2020-06-17 20:19:08,808 __main__ 157:INFO Training DQL with target network
+2020-06-17 20:19:08,810 __main__ 169:DEBUG Running episode 0 with 248 steps
+2020-06-17 20:21:51,497 __main__ 157:INFO Training DQL with target network
+2020-06-17 20:21:51,500 __main__ 169:DEBUG Running episode 0 with 248 steps
+2020-06-17 20:22:26,656 __main__ 83:INFO Training DQL
+2020-06-17 20:22:26,659 __main__ 95:DEBUG Running episode 0 with 248 steps
+2020-06-17 20:24:24,608 __main__ 83:INFO Training DQL
+2020-06-17 20:24:24,610 __main__ 95:DEBUG Running episode 0 with 248 steps
+2020-06-17 20:24:57,410 __main__ 157:INFO Training DQL with target network
+2020-06-17 20:24:57,411 __main__ 169:DEBUG Running episode 0 with 248 steps
+2020-06-17 20:26:22,450 __main__ 83:INFO Training DQL
+2020-06-17 20:26:22,453 __main__ 95:DEBUG Running episode 0 with 248 steps
+2020-06-17 20:41:56,600 __main__ 157:INFO Training DQL with target network
+2020-06-17 20:41:56,601 __main__ 169:DEBUG Running episode 0 with 248 steps
+2020-06-17 20:42:40,586 __main__ 157:INFO Training DQL with target network
+2020-06-17 20:42:40,586 __main__ 169:DEBUG Running episode 0 with 248 steps
