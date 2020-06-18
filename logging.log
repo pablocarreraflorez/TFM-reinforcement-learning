@@ -1,185 +1,50 @@
-2020-06-16 19:40:08,028 __main__ 2:INFO Plot AAPL candlestick
-2020-06-16 19:40:09,653 __main__ 2:INFO Plot AAPL cummulative returns
-2020-06-16 20:39:24,524 __main__ 83:INFO Training DQL
-2020-06-16 20:39:24,526 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-16 20:39:33,713 __main__ 83:INFO Training DQL
-2020-06-16 20:39:33,715 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-16 20:40:34,460 __main__ 83:INFO Training DQL
-2020-06-16 20:40:34,462 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-16 20:42:08,674 __main__ 92:DEBUG Running episode 10 with 249 steps
-2020-06-16 20:43:46,494 __main__ 92:DEBUG Running episode 20 with 249 steps
-2020-06-16 20:45:24,728 __main__ 92:DEBUG Running episode 30 with 249 steps
-2020-06-16 20:47:02,817 __main__ 92:DEBUG Running episode 40 with 249 steps
-2020-06-16 20:48:07,691 __main__ 83:INFO Training DQL
-2020-06-16 20:48:07,692 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-16 20:49:04,272 __main__ 83:INFO Training DQL
-2020-06-16 20:49:04,274 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-16 20:50:55,317 __main__ 83:INFO Training DQL
-2020-06-16 20:50:55,318 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-16 20:52:28,485 __main__ 92:DEBUG Running episode 10 with 249 steps
-2020-06-16 20:54:04,657 __main__ 92:DEBUG Running episode 20 with 249 steps
-2020-06-16 20:55:40,704 __main__ 92:DEBUG Running episode 30 with 249 steps
-2020-06-16 20:57:17,118 __main__ 92:DEBUG Running episode 40 with 249 steps
-2020-06-16 20:58:53,971 __main__ 92:DEBUG Running episode 50 with 249 steps
-2020-06-16 21:00:30,623 __main__ 92:DEBUG Running episode 60 with 249 steps
-2020-06-16 21:02:07,233 __main__ 92:DEBUG Running episode 70 with 249 steps
-2020-06-16 21:03:43,811 __main__ 92:DEBUG Running episode 80 with 249 steps
-2020-06-16 21:05:20,370 __main__ 92:DEBUG Running episode 90 with 249 steps
-2020-06-16 21:09:02,315 __main__ 83:INFO Training DQL
-2020-06-16 21:09:02,317 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-16 21:09:08,276 __main__ 83:INFO Training DQL
-2020-06-16 21:09:08,278 __main__ 92:DEBUG Running episode 0 with 249 steps
-2020-06-16 21:10:49,324 __main__ 92:DEBUG Running episode 10 with 249 steps
-2020-06-16 21:12:32,687 __main__ 92:DEBUG Running episode 20 with 249 steps
-2020-06-16 21:14:16,111 __main__ 92:DEBUG Running episode 30 with 249 steps
-2020-06-16 21:16:00,885 __main__ 92:DEBUG Running episode 40 with 249 steps
-2020-06-16 21:38:44,943 __main__ 83:INFO Training DQL
-2020-06-16 21:38:44,945 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-16 21:40:31,071 __main__ 95:DEBUG Running episode 10 with 249 steps
-2020-06-16 21:42:20,853 __main__ 95:DEBUG Running episode 20 with 249 steps
-2020-06-16 21:44:10,534 __main__ 95:DEBUG Running episode 30 with 249 steps
-2020-06-16 21:46:03,845 __main__ 95:DEBUG Running episode 40 with 249 steps
-2020-06-16 21:52:52,693 __main__ 83:INFO Training DQL
-2020-06-16 21:52:52,695 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-16 21:54:47,742 __main__ 95:DEBUG Running episode 10 with 249 steps
-2020-06-16 21:56:48,612 __main__ 95:DEBUG Running episode 20 with 249 steps
-2020-06-16 21:58:39,727 __main__ 95:DEBUG Running episode 30 with 249 steps
-2020-06-16 22:00:31,209 __main__ 95:DEBUG Running episode 40 with 249 steps
-2020-06-16 22:09:40,239 __main__ 83:INFO Training DQL
-2020-06-16 22:09:40,242 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-16 22:11:23,576 __main__ 95:DEBUG Running episode 10 with 249 steps
-2020-06-16 22:13:09,369 __main__ 95:DEBUG Running episode 20 with 249 steps
-2020-06-16 22:15:05,433 __main__ 95:DEBUG Running episode 30 with 249 steps
-2020-06-16 22:17:01,887 __main__ 95:DEBUG Running episode 40 with 249 steps
-2020-06-16 22:59:25,933 __main__ 157:INFO Training DQL with target network
-2020-06-16 22:59:25,935 __main__ 169:DEBUG Running episode 0 with 249 steps
-2020-06-16 23:01:19,203 __main__ 169:DEBUG Running episode 10 with 249 steps
-2020-06-16 23:03:16,524 __main__ 169:DEBUG Running episode 20 with 249 steps
-2020-06-16 23:05:14,036 __main__ 169:DEBUG Running episode 30 with 249 steps
-2020-06-16 23:07:11,996 __main__ 169:DEBUG Running episode 40 with 249 steps
-2020-06-16 23:12:29,898 __main__ 83:INFO Training DQL
-2020-06-16 23:12:29,900 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-16 23:12:39,007 __main__ 83:INFO Training DQL
-2020-06-16 23:12:39,011 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-16 23:22:15,552 __main__ 95:DEBUG Running episode 10 with 249 steps
-2020-06-16 23:31:45,539 __main__ 95:DEBUG Running episode 20 with 249 steps
-2020-06-16 23:33:05,645 __main__ 83:INFO Training DQL
-2020-06-16 23:33:05,647 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-17 00:15:58,974 __main__ 83:INFO Training DQL
-2020-06-17 00:15:58,976 __main__ 95:DEBUG Running episode 0 with 237 steps
-2020-06-17 00:17:50,703 __main__ 95:DEBUG Running episode 10 with 237 steps
-2020-06-17 00:19:43,540 __main__ 95:DEBUG Running episode 20 with 237 steps
-2020-06-17 00:21:37,935 __main__ 95:DEBUG Running episode 30 with 237 steps
-2020-06-17 00:23:30,967 __main__ 95:DEBUG Running episode 40 with 237 steps
-2020-06-17 00:27:44,335 __main__ 83:INFO Training DQL
-2020-06-17 00:27:44,336 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-17 00:29:39,988 __main__ 95:DEBUG Running episode 10 with 249 steps
-2020-06-17 00:31:33,280 __main__ 95:DEBUG Running episode 20 with 249 steps
-2020-06-17 00:33:28,416 __main__ 83:INFO Training DQL
-2020-06-17 00:33:28,419 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-17 00:35:22,720 __main__ 95:DEBUG Running episode 10 with 249 steps
-2020-06-17 00:37:17,498 __main__ 95:DEBUG Running episode 20 with 249 steps
-2020-06-17 00:39:12,683 __main__ 95:DEBUG Running episode 30 with 249 steps
-2020-06-17 00:41:07,531 __main__ 95:DEBUG Running episode 40 with 249 steps
-2020-06-17 00:50:00,543 __main__ 83:INFO Training DQL
-2020-06-17 00:50:00,546 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-17 00:51:51,438 __main__ 95:DEBUG Running episode 10 with 249 steps
-2020-06-17 00:53:44,914 __main__ 95:DEBUG Running episode 20 with 249 steps
-2020-06-17 00:55:38,496 __main__ 95:DEBUG Running episode 30 with 249 steps
-2020-06-17 00:57:32,434 __main__ 95:DEBUG Running episode 40 with 249 steps
-2020-06-17 00:59:33,992 __main__ 157:INFO Training DQL with target network
-2020-06-17 00:59:33,993 __main__ 169:DEBUG Running episode 0 with 249 steps
-2020-06-17 01:01:29,762 __main__ 169:DEBUG Running episode 10 with 249 steps
-2020-06-17 01:03:28,537 __main__ 169:DEBUG Running episode 20 with 249 steps
-2020-06-17 01:05:27,919 __main__ 169:DEBUG Running episode 30 with 249 steps
-2020-06-17 01:07:27,169 __main__ 169:DEBUG Running episode 40 with 249 steps
-2020-06-17 01:09:34,402 __main__ 83:INFO Training DQL
-2020-06-17 01:09:34,403 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-17 01:18:37,735 __main__ 95:DEBUG Running episode 10 with 249 steps
-2020-06-17 08:06:33,251 __main__ 95:DEBUG Running episode 20 with 249 steps
-2020-06-17 08:42:10,933 __main__ 95:DEBUG Running episode 30 with 249 steps
-2020-06-17 09:01:52,514 __main__ 95:DEBUG Running episode 40 with 249 steps
-2020-06-17 09:21:53,362 __main__ 157:INFO Training DQL with target network
-2020-06-17 09:21:53,363 __main__ 169:DEBUG Running episode 0 with 249 steps
-2020-06-17 18:04:55,952 __main__ 83:INFO Training DQL
-2020-06-17 18:04:55,954 __main__ 95:DEBUG Running episode 0 with 249 steps
-2020-06-17 18:07:03,980 __main__ 95:DEBUG Running episode 10 with 249 steps
-2020-06-17 18:09:05,795 __main__ 95:DEBUG Running episode 20 with 249 steps
-2020-06-17 18:11:07,380 __main__ 95:DEBUG Running episode 30 with 249 steps
-2020-06-17 18:13:09,157 __main__ 95:DEBUG Running episode 40 with 249 steps
-2020-06-17 18:18:13,435 __main__ 83:INFO Training DQL
-2020-06-17 18:18:13,437 __main__ 95:DEBUG Running episode 0 with 124 steps
-2020-06-17 18:19:14,425 __main__ 95:DEBUG Running episode 10 with 124 steps
-2020-06-17 18:20:15,819 __main__ 95:DEBUG Running episode 20 with 124 steps
-2020-06-17 18:21:17,740 __main__ 95:DEBUG Running episode 30 with 124 steps
-2020-06-17 18:22:23,540 __main__ 95:DEBUG Running episode 40 with 124 steps
-2020-06-17 18:34:13,922 __main__ 83:INFO Training DQL
-2020-06-17 18:34:13,925 __main__ 95:DEBUG Running episode 0 with 124 steps
-2020-06-17 18:35:25,658 __main__ 95:DEBUG Running episode 10 with 124 steps
-2020-06-17 18:36:27,723 __main__ 95:DEBUG Running episode 20 with 124 steps
-2020-06-17 18:37:28,203 __main__ 95:DEBUG Running episode 30 with 124 steps
-2020-06-17 18:38:28,990 __main__ 95:DEBUG Running episode 40 with 124 steps
-2020-06-17 18:42:38,997 __main__ 83:INFO Training DQL
-2020-06-17 18:42:38,998 __main__ 95:DEBUG Running episode 0 with 124 steps
-2020-06-17 18:43:37,712 __main__ 95:DEBUG Running episode 10 with 124 steps
-2020-06-17 18:44:38,855 __main__ 95:DEBUG Running episode 20 with 124 steps
-2020-06-17 18:45:39,752 __main__ 95:DEBUG Running episode 30 with 124 steps
-2020-06-17 18:46:41,014 __main__ 95:DEBUG Running episode 40 with 124 steps
-2020-06-17 19:02:50,936 __main__ 83:INFO Training DQL
-2020-06-17 19:02:50,937 __main__ 95:DEBUG Running episode 0 with 124 steps
-2020-06-17 19:03:49,700 __main__ 95:DEBUG Running episode 10 with 124 steps
-2020-06-17 19:04:51,054 __main__ 95:DEBUG Running episode 20 with 124 steps
-2020-06-17 19:05:52,330 __main__ 95:DEBUG Running episode 30 with 124 steps
-2020-06-17 19:06:53,601 __main__ 95:DEBUG Running episode 40 with 124 steps
-2020-06-17 19:08:28,180 __main__ 157:INFO Training DQL with target network
-2020-06-17 19:08:28,183 __main__ 169:DEBUG Running episode 0 with 124 steps
-2020-06-17 19:09:31,496 __main__ 169:DEBUG Running episode 10 with 124 steps
-2020-06-17 19:10:36,065 __main__ 169:DEBUG Running episode 20 with 124 steps
-2020-06-17 19:11:42,151 __main__ 169:DEBUG Running episode 30 with 124 steps
-2020-06-17 19:12:50,739 __main__ 169:DEBUG Running episode 40 with 124 steps
-2020-06-17 19:15:02,412 __main__ 83:INFO Training DQL
-2020-06-17 19:15:02,416 __main__ 95:DEBUG Running episode 0 with 124 steps
-2020-06-17 19:20:32,487 __main__ 95:DEBUG Running episode 10 with 124 steps
-2020-06-17 19:26:28,404 __main__ 95:DEBUG Running episode 20 with 124 steps
-2020-06-17 19:31:53,667 __main__ 95:DEBUG Running episode 30 with 124 steps
-2020-06-17 19:36:44,155 __main__ 95:DEBUG Running episode 40 with 124 steps
-2020-06-17 19:42:45,863 __main__ 83:INFO Training DQL
-2020-06-17 19:42:45,864 __main__ 95:DEBUG Running episode 0 with 124 steps
-2020-06-17 19:43:46,943 __main__ 95:DEBUG Running episode 10 with 124 steps
-2020-06-17 19:44:50,389 __main__ 95:DEBUG Running episode 20 with 124 steps
-2020-06-17 19:45:53,704 __main__ 95:DEBUG Running episode 30 with 124 steps
-2020-06-17 19:46:56,989 __main__ 95:DEBUG Running episode 40 with 124 steps
-2020-06-17 19:50:53,153 __main__ 83:INFO Training DQL
-2020-06-17 19:50:53,154 __main__ 95:DEBUG Running episode 0 with 248 steps
-2020-06-17 19:53:00,548 __main__ 95:DEBUG Running episode 10 with 248 steps
-2020-06-17 19:55:08,594 __main__ 95:DEBUG Running episode 20 with 248 steps
-2020-06-17 19:57:16,749 __main__ 95:DEBUG Running episode 30 with 248 steps
-2020-06-17 19:59:24,829 __main__ 95:DEBUG Running episode 40 with 248 steps
-2020-06-17 20:03:35,637 __main__ 157:INFO Training DQL with target network
-2020-06-17 20:03:35,638 __main__ 169:DEBUG Running episode 0 with 496 steps
-2020-06-17 20:03:46,619 __main__ 157:INFO Training DQL with target network
-2020-06-17 20:03:46,620 __main__ 169:DEBUG Running episode 0 with 248 steps
-2020-06-17 20:05:57,891 __main__ 169:DEBUG Running episode 10 with 248 steps
-2020-06-17 20:08:06,996 __main__ 169:DEBUG Running episode 20 with 248 steps
-2020-06-17 20:10:17,658 __main__ 169:DEBUG Running episode 30 with 248 steps
-2020-06-17 20:12:27,007 __main__ 169:DEBUG Running episode 40 with 248 steps
-2020-06-17 20:17:50,645 __main__ 157:INFO Training DQL with target network
-2020-06-17 20:17:50,647 __main__ 169:DEBUG Running episode 0 with 251 steps
-2020-06-17 20:18:34,326 __main__ 157:INFO Training DQL with target network
-2020-06-17 20:18:34,328 __main__ 169:DEBUG Running episode 0 with 248 steps
-2020-06-17 20:19:08,808 __main__ 157:INFO Training DQL with target network
-2020-06-17 20:19:08,810 __main__ 169:DEBUG Running episode 0 with 248 steps
-2020-06-17 20:21:51,497 __main__ 157:INFO Training DQL with target network
-2020-06-17 20:21:51,500 __main__ 169:DEBUG Running episode 0 with 248 steps
-2020-06-17 20:22:26,656 __main__ 83:INFO Training DQL
-2020-06-17 20:22:26,659 __main__ 95:DEBUG Running episode 0 with 248 steps
-2020-06-17 20:24:24,608 __main__ 83:INFO Training DQL
-2020-06-17 20:24:24,610 __main__ 95:DEBUG Running episode 0 with 248 steps
-2020-06-17 20:24:57,410 __main__ 157:INFO Training DQL with target network
-2020-06-17 20:24:57,411 __main__ 169:DEBUG Running episode 0 with 248 steps
-2020-06-17 20:26:22,450 __main__ 83:INFO Training DQL
-2020-06-17 20:26:22,453 __main__ 95:DEBUG Running episode 0 with 248 steps
-2020-06-17 20:41:56,600 __main__ 157:INFO Training DQL with target network
-2020-06-17 20:41:56,601 __main__ 169:DEBUG Running episode 0 with 248 steps
-2020-06-17 20:42:40,586 __main__ 157:INFO Training DQL with target network
-2020-06-17 20:42:40,586 __main__ 169:DEBUG Running episode 0 with 248 steps
+2020-06-18 19:27:18,680 __main__ 2:INFO Plot AAPL candlestick
+2020-06-18 19:27:19,799 __main__ 2:INFO Plot AAPL cummulative returns
+2020-06-18 19:27:27,038 __main__ 83:INFO Training DQL
+2020-06-18 19:27:27,040 __main__ 95:DEBUG Running episode 0 with 248 steps
+2020-06-18 19:30:41,091 __main__ 83:INFO Training DQL
+2020-06-18 19:30:41,094 __main__ 95:DEBUG Running episode 0 with 248 steps
+2020-06-18 19:57:53,720 __main__ 83:INFO Training DQL
+2020-06-18 19:57:53,722 __main__ 95:DEBUG Running episode 0 with 248 steps
+2020-06-18 20:00:33,512 __main__ 83:INFO Training DQL
+2020-06-18 20:00:33,514 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 20:07:13,623 __main__ 83:INFO Training DQL
+2020-06-18 20:07:13,626 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 20:10:04,069 __main__ 83:INFO Training DQL
+2020-06-18 20:10:04,072 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 20:11:08,526 __main__ 83:INFO Training DQL
+2020-06-18 20:11:08,529 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 20:12:06,262 __main__ 157:INFO Training DQL with target network
+2020-06-18 20:12:06,264 __main__ 169:DEBUG Running episode 0 with 245 steps
+2020-06-18 20:51:25,229 __main__ 83:INFO Training DQL
+2020-06-18 20:51:25,232 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 20:52:18,555 __main__ 83:INFO Training DQL
+2020-06-18 20:52:18,557 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:13:49,813 __main__ 83:INFO Training DQL
+2020-06-18 21:13:49,815 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:15:26,913 __main__ 83:INFO Training DQL
+2020-06-18 21:15:26,915 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:26:22,981 __main__ 83:INFO Training DQL
+2020-06-18 21:26:22,984 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:35:31,985 __main__ 157:INFO Training DQL with target network
+2020-06-18 21:35:31,987 __main__ 169:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:38:07,376 __main__ 83:INFO Training DQL
+2020-06-18 21:38:07,378 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:38:56,337 __main__ 83:INFO Training DQL
+2020-06-18 21:38:56,339 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:42:47,820 __main__ 83:INFO Training DQL
+2020-06-18 21:42:47,822 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:43:21,835 __main__ 83:INFO Training DQL
+2020-06-18 21:43:21,837 __main__ 95:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:44:29,145 __main__ 157:INFO Training DQL with target network
+2020-06-18 21:44:29,147 __main__ 169:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:46:53,744 __main__ 157:INFO Training DQL with target network
+2020-06-18 21:46:53,746 __main__ 169:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:48:20,243 __main__ 157:INFO Training DQL with target network
+2020-06-18 21:48:20,246 __main__ 169:DEBUG Running episode 0 with 245 steps
+2020-06-18 21:52:28,428 __main__ 83:INFO Training DQL
+2020-06-18 21:52:28,431 __main__ 95:DEBUG Running episode 0 with 248 steps
+2020-06-19 00:42:36,353 __main__ 83:INFO Training DQL
+2020-06-19 00:42:37,978 __main__ 95:DEBUG Running episode 0 with 248 steps
+2020-06-19 00:56:43,771 __main__ 157:INFO Training DQL with target network
+2020-06-19 00:56:43,772 __main__ 169:DEBUG Running episode 0 with 248 steps
