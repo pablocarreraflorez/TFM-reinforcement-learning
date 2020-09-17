@@ -1,219 +1,189 @@
-2020-06-24 17:46:55,025 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 17:46:59,386 __main__ 15:INFO Download data from 5 stocks
-2020-06-24 17:46:59,387 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 17:47:00,351 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 17:47:01,145 __main__ 15:DEBUG Download data from IBM
-2020-06-24 17:47:01,959 __main__ 15:DEBUG Download data from INTC
-2020-06-24 17:47:02,765 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 17:47:20,414 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 17:47:22,255 __main__ 82:INFO Training DQL
-2020-06-24 17:47:22,256 __main__ 94:DEBUG Running episode 0 with 245 steps
-2020-06-24 17:50:55,533 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 18:01:54,126 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 18:02:21,231 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 18:02:23,082 __main__ 82:INFO Training DQL
-2020-06-24 18:02:23,085 __main__ 94:DEBUG Running episode 0 with 245 steps
-2020-06-24 18:05:58,810 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 18:36:49,840 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 18:36:51,826 __main__ 82:INFO Training DQL
-2020-06-24 18:36:51,828 __main__ 94:DEBUG Running episode 0 with 245 steps
-2020-06-24 18:40:37,932 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 18:40:59,984 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 18:41:01,809 __main__ 156:INFO Training DQL with target network
-2020-06-24 18:41:01,810 __main__ 168:DEBUG Running episode 0 with 245 steps
-2020-06-24 18:41:40,469 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 18:56:16,549 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 18:56:18,414 __main__ 82:INFO Training DQL
-2020-06-24 18:56:18,416 __main__ 94:DEBUG Running episode 0 with 245 steps
-2020-06-24 19:11:00,038 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 19:13:35,521 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 19:13:37,531 __main__ 156:INFO Training DQL with target network
-2020-06-24 19:13:37,532 __main__ 168:DEBUG Running episode 0 with 245 steps
-2020-06-24 19:14:17,553 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 19:14:56,948 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 19:14:59,424 __main__ 82:INFO Training DQL
-2020-06-24 19:14:59,426 __main__ 94:DEBUG Running episode 0 with 245 steps
-2020-06-24 19:18:48,521 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 19:33:51,451 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 19:33:53,228 __main__ 82:INFO Training DQL
-2020-06-24 19:33:53,240 __main__ 95:DEBUG Running episode 0 with 245 steps
-2020-06-24 19:38:29,058 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 19:38:30,744 __main__ 82:INFO Training DQL
-2020-06-24 19:38:30,761 __main__ 95:DEBUG Running episode 0 with 245 steps
-2020-06-24 19:40:29,623 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 19:43:29,322 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 19:43:31,137 __main__ 155:INFO Training DQL with target network
-2020-06-24 19:43:31,140 __main__ 165:DEBUG Running episode 0 with 245 steps
-2020-06-24 19:47:39,058 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 19:47:40,760 __main__ 155:INFO Training DQL with target network
-2020-06-24 19:47:40,769 __main__ 168:DEBUG Running episode 0 with 245 steps
-2020-06-24 20:10:01,776 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:15:37,969 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:15:40,386 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:15:42,826 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:15:45,182 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:15:47,760 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:22:20,851 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:22:22,879 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:22:24,766 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:22:26,807 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:22:28,692 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:35:38,196 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:35:39,895 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:35:41,582 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:35:43,326 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:35:45,065 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:36:13,270 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:36:15,545 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:36:17,560 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:36:19,424 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:36:21,279 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:47:12,208 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:47:14,023 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:47:15,957 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:47:17,903 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:47:19,863 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:49:56,070 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:49:57,781 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:49:59,425 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:50:01,286 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:50:03,091 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:50:47,789 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:50:49,658 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:50:51,367 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:50:53,150 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:50:54,920 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:52:55,905 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:52:58,135 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:52:59,943 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:53:01,760 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:53:03,631 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:53:31,470 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:53:33,195 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:53:34,918 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:53:36,537 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:53:38,251 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:56:30,779 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:56:32,636 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:56:34,543 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:56:36,400 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:56:38,046 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 20:57:55,737 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 20:57:57,433 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 20:57:59,045 __main__ 15:DEBUG Download data from IBM
-2020-06-24 20:58:00,855 __main__ 15:DEBUG Download data from INTC
-2020-06-24 20:58:02,429 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:06:23,158 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:06:24,990 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:06:27,551 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:06:29,545 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:06:31,548 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:07:20,491 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:07:22,666 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:07:24,579 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:07:26,948 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:07:29,055 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:08:27,100 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:08:29,543 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:08:31,734 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:08:33,981 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:08:36,072 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:08:38,843 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:08:40,735 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:08:42,720 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:08:44,691 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:08:46,901 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:09:39,363 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:09:41,532 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:09:43,775 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:09:45,931 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:09:48,396 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:09:50,993 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:09:52,967 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:09:54,779 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:09:56,809 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:09:58,974 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:12:24,918 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:12:26,717 __main__ 155:INFO Training DQL with target network
-2020-06-24 21:12:26,731 __main__ 168:DEBUG Running episode 0 with 245 steps
-2020-06-24 21:12:52,539 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:12:55,332 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:12:57,240 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:12:59,310 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:13:01,376 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:13:03,460 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:13:06,397 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:13:08,531 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:13:10,727 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:13:13,214 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:13:15,394 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:17:06,906 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:17:08,690 __main__ 155:INFO Training DQL with target network
-2020-06-24 21:17:08,699 __main__ 168:DEBUG Running episode 0 with 245 steps
-2020-06-24 21:19:21,244 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:19:24,000 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:19:25,797 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:19:27,774 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:19:29,496 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:19:31,253 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:19:33,696 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:19:35,636 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:19:37,316 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:19:39,028 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:19:40,785 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:20:22,955 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:20:24,886 __main__ 82:INFO Training DQL
-2020-06-24 21:20:24,891 __main__ 95:DEBUG Running episode 0 with 245 steps
-2020-06-24 21:22:08,481 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:22:12,941 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:22:16,786 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:22:20,759 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:22:24,599 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:22:28,378 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:22:32,710 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:22:36,752 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:22:40,609 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:22:44,418 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:22:48,083 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:22:52,134 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:22:54,039 __main__ 155:INFO Training DQL with target network
-2020-06-24 21:22:54,048 __main__ 168:DEBUG Running episode 0 with 245 steps
-2020-06-24 21:24:35,464 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:24:39,774 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:24:43,565 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:24:47,601 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:24:51,644 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:24:55,918 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:25:00,739 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:25:04,694 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:25:08,574 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:25:12,476 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:25:16,449 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:25:20,650 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:25:23,047 __main__ 82:INFO Training DQL
-2020-06-24 21:25:23,056 __main__ 95:DEBUG Running episode 0 with 245 steps
-2020-06-24 21:53:15,602 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:53:20,159 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:53:23,892 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:53:27,806 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:53:31,839 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:53:35,633 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:53:39,945 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:53:43,985 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 21:53:48,150 __main__ 15:DEBUG Download data from IBM
-2020-06-24 21:53:52,019 __main__ 15:DEBUG Download data from INTC
-2020-06-24 21:53:55,767 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 21:53:59,845 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 21:54:01,871 __main__ 155:INFO Training DQL with target network
-2020-06-24 21:54:01,879 __main__ 168:DEBUG Running episode 0 with 245 steps
-2020-06-24 22:23:02,912 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 22:23:07,620 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 22:23:11,727 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 22:23:15,899 __main__ 15:DEBUG Download data from IBM
-2020-06-24 22:23:20,491 __main__ 15:DEBUG Download data from INTC
-2020-06-24 22:23:24,836 __main__ 15:DEBUG Download data from MSFT
-2020-06-24 22:23:29,325 __main__ 15:DEBUG Download data from AAPL
-2020-06-24 22:23:33,678 __main__ 15:DEBUG Download data from CSCO
-2020-06-24 22:23:37,629 __main__ 15:DEBUG Download data from IBM
-2020-06-24 22:23:41,471 __main__ 15:DEBUG Download data from INTC
-2020-06-24 22:23:45,334 __main__ 15:DEBUG Download data from MSFT
+2020-09-07 21:26:54,053 __main__ 37:INFO Creating environment
+2020-09-07 21:26:54,055 __main__ 14:INFO Start downloading data from AAPL
+2020-09-07 21:26:55,368 __main__ 3:INFO Build LSTM DQN
+2020-09-07 21:26:57,069 __main__ 22:INFO Creating agent
+2020-09-07 21:26:58,254 __main__ 227:INFO Training DDQL
+2020-09-07 21:26:58,258 __main__ 246:DEBUG Running episode 0/50
+2020-09-07 21:32:33,492 __main__ 246:DEBUG Running episode 10/50
+2020-09-07 21:38:56,755 __main__ 246:DEBUG Running episode 20/50
+2020-09-07 21:46:58,101 __main__ 246:DEBUG Running episode 30/50
+2020-09-07 21:56:54,266 __main__ 246:DEBUG Running episode 40/50
+2020-09-07 22:12:20,000 __main__ 37:INFO Creating environment
+2020-09-07 22:12:20,321 __main__ 14:INFO Start downloading data from S&P500
+2020-09-07 22:14:12,772 __main__ 44:DEBUG Error downloading data from CARR
+2020-09-07 22:17:58,859 __main__ 44:DEBUG Error downloading data from ICE
+2020-09-07 22:18:00,356 __main__ 44:DEBUG Error downloading data from IBM
+2020-09-07 22:18:05,053 __main__ 44:DEBUG Error downloading data from IFF
+2020-09-07 22:18:09,041 __main__ 44:DEBUG Error downloading data from ISRG
+2020-09-07 22:18:10,713 __main__ 44:DEBUG Error downloading data from IVZ
+2020-09-07 22:18:12,353 __main__ 44:DEBUG Error downloading data from IPGP
+2020-09-07 22:18:16,642 __main__ 44:DEBUG Error downloading data from JKHY
+2020-09-07 22:18:20,315 __main__ 44:DEBUG Error downloading data from JBHT
+2020-09-07 22:18:35,597 __main__ 44:DEBUG Error downloading data from KSU
+2020-09-07 22:18:37,061 __main__ 44:DEBUG Error downloading data from K
+2020-09-07 22:18:39,587 __main__ 44:DEBUG Error downloading data from KEYS
+2020-09-07 22:18:44,773 __main__ 44:DEBUG Error downloading data from KMI
+2020-09-07 22:18:52,002 __main__ 44:DEBUG Error downloading data from KR
+2020-09-07 22:19:47,853 __main__ 44:DEBUG Error downloading data from MS
+2020-09-07 22:19:54,526 __main__ 44:DEBUG Error downloading data from NDAQ
+2020-09-07 22:19:55,752 __main__ 44:DEBUG Error downloading data from NOV
+2020-09-07 22:19:58,367 __main__ 44:DEBUG Error downloading data from NFLX
+2020-09-07 22:20:00,648 __main__ 44:DEBUG Error downloading data from NEM
+2020-09-07 22:20:04,741 __main__ 44:DEBUG Error downloading data from NEE
+2020-09-07 22:20:05,729 __main__ 44:DEBUG Error downloading data from NLSN
+2020-09-07 22:20:10,329 __main__ 44:DEBUG Error downloading data from NBL
+2020-09-07 22:20:16,265 __main__ 44:DEBUG Error downloading data from NOC
+2020-09-07 22:20:24,502 __main__ 44:DEBUG Error downloading data from NVDA
+2020-09-07 22:20:25,772 __main__ 44:DEBUG Error downloading data from NVR
+2020-09-07 22:20:30,416 __main__ 44:DEBUG Error downloading data from ODFL
+2020-09-07 22:20:32,568 __main__ 44:DEBUG Error downloading data from OMC
+2020-09-07 22:20:37,170 __main__ 44:DEBUG Error downloading data from OTIS
+2020-09-07 22:20:38,811 __main__ 44:DEBUG Error downloading data from PCAR
+2020-09-07 22:20:41,864 __main__ 44:DEBUG Error downloading data from PKG
+2020-09-07 22:20:46,885 __main__ 44:DEBUG Error downloading data from PAYC
+2020-09-07 22:20:48,401 __main__ 44:DEBUG Error downloading data from PYPL
+2020-09-07 22:21:06,357 __main__ 44:DEBUG Error downloading data from PKI
+2020-09-07 22:21:08,399 __main__ 44:DEBUG Error downloading data from PRGO
+2020-09-07 22:21:18,723 __main__ 44:DEBUG Error downloading data from PNC
+2020-09-07 22:21:20,151 __main__ 44:DEBUG Error downloading data from PPG
+2020-09-07 22:21:21,414 __main__ 44:DEBUG Error downloading data from PPL
+2020-09-07 22:21:26,586 __main__ 44:DEBUG Error downloading data from PG
+2020-09-07 22:21:47,290 __main__ 44:DEBUG Error downloading data from DGX
+2020-09-07 22:21:52,348 __main__ 44:DEBUG Error downloading data from RTX
+2020-09-07 22:21:59,911 __main__ 44:DEBUG Error downloading data from RSG
+2020-09-07 22:22:14,043 __main__ 44:DEBUG Error downloading data from CRM
+2020-09-07 22:22:15,314 __main__ 44:DEBUG Error downloading data from SBAC
+2020-09-07 22:22:18,090 __main__ 44:DEBUG Error downloading data from STX
+2020-09-07 22:22:19,461 __main__ 44:DEBUG Error downloading data from SEE
+2020-09-07 22:22:25,582 __main__ 44:DEBUG Error downloading data from SPG
+2020-09-07 22:22:28,761 __main__ 44:DEBUG Error downloading data from SLG
+2020-09-07 22:22:42,770 __main__ 44:DEBUG Error downloading data from SIVB
+2020-09-07 22:22:44,144 __main__ 44:DEBUG Error downloading data from SYF
+2020-09-07 22:22:56,652 __main__ 44:DEBUG Error downloading data from TEL
+2020-09-07 22:22:57,807 __main__ 44:DEBUG Error downloading data from FTI
+2020-09-07 22:22:59,362 __main__ 44:DEBUG Error downloading data from TDY
+2020-09-07 22:23:03,324 __main__ 44:DEBUG Error downloading data from TXT
+2020-09-07 22:23:04,772 __main__ 44:DEBUG Error downloading data from TMO
+2020-09-07 22:23:11,999 __main__ 44:DEBUG Error downloading data from TDG
+2020-09-07 22:23:21,426 __main__ 44:DEBUG Error downloading data from UDR
+2020-09-07 22:23:31,796 __main__ 44:DEBUG Error downloading data from UNH
+2020-09-07 22:23:49,325 __main__ 44:DEBUG Error downloading data from VZ
+2020-09-07 22:23:51,980 __main__ 44:DEBUG Error downloading data from VIAC
+2020-09-07 22:23:57,852 __main__ 44:DEBUG Error downloading data from WRB
+2020-09-07 22:24:06,050 __main__ 44:DEBUG Error downloading data from WM
+2020-09-07 22:24:08,855 __main__ 44:DEBUG Error downloading data from WEC
+2020-09-07 22:24:11,277 __main__ 44:DEBUG Error downloading data from WELL
+2020-09-07 22:24:15,976 __main__ 44:DEBUG Error downloading data from WU
+2020-09-07 22:24:21,391 __main__ 44:DEBUG Error downloading data from WMB
+2020-09-07 22:24:23,045 __main__ 44:DEBUG Error downloading data from WLTW
+2020-09-07 22:24:27,707 __main__ 44:DEBUG Error downloading data from WYNN
+2020-09-07 22:24:31,927 __main__ 44:DEBUG Error downloading data from XRX
+2020-09-07 22:24:44,141 __main__ 48:INFO End downloading data from S&P500
+2020-09-08 00:36:24,848 __main__ 37:INFO Creating environment
+2020-09-08 00:36:25,183 __main__ 14:INFO Start downloading data from GE
+2020-09-08 00:36:26,506 __main__ 3:INFO Build LSTM DQN
+2020-09-08 00:36:28,205 __main__ 22:INFO Creating agent
+2020-09-08 00:36:45,517 __main__ 227:INFO Training DDQL
+2020-09-08 00:36:45,524 __main__ 246:DEBUG Running episode 0/50
+2020-09-08 00:49:23,927 __main__ 246:DEBUG Running episode 10/50
+2020-09-08 01:02:46,108 __main__ 246:DEBUG Running episode 20/50
+2020-09-08 01:18:04,681 __main__ 246:DEBUG Running episode 30/50
+2020-09-08 01:34:28,526 __main__ 246:DEBUG Running episode 40/50
+2020-09-08 03:50:13,600 __main__ 37:INFO Creating environment
+2020-09-08 03:50:13,669 __main__ 14:INFO Start downloading data from CAT
+2020-09-08 03:50:15,015 __main__ 3:INFO Build LSTM DQN
+2020-09-08 03:50:16,709 __main__ 22:INFO Creating agent
+2020-09-08 03:50:48,389 __main__ 227:INFO Training DDQL
+2020-09-08 03:50:48,394 __main__ 246:DEBUG Running episode 0/50
+2020-09-08 04:08:40,592 __main__ 246:DEBUG Running episode 10/50
+2020-09-08 04:28:06,696 __main__ 246:DEBUG Running episode 20/50
+2020-09-08 04:48:30,364 __main__ 246:DEBUG Running episode 30/50
+2020-09-08 05:12:44,909 __main__ 246:DEBUG Running episode 40/50
+2020-09-08 07:52:50,554 __main__ 37:INFO Creating environment
+2020-09-08 07:52:50,899 __main__ 14:INFO Start downloading data from S&P500
+2020-09-08 08:57:07,118 __main__ 37:INFO Creating environment
+2020-09-08 08:57:07,410 __main__ 14:INFO Start downloading data from S&P500
+2020-09-08 09:06:34,007 __main__ 37:INFO Creating environment
+2020-09-08 09:06:34,320 __main__ 14:INFO Start downloading data from S&P500
+2020-09-08 09:08:19,470 __main__ 44:DEBUG Error downloading data from CARR
+2020-09-08 09:11:05,687 __main__ 44:DEBUG Error downloading data from HD
+2020-09-08 09:11:07,011 __main__ 44:DEBUG Error downloading data from HON
+2020-09-08 09:11:17,449 __main__ 44:DEBUG Error downloading data from HII
+2020-09-08 09:11:30,428 __main__ 44:DEBUG Error downloading data from ICE
+2020-09-08 09:11:31,584 __main__ 44:DEBUG Error downloading data from IBM
+2020-09-08 09:11:35,854 __main__ 44:DEBUG Error downloading data from IFF
+2020-09-08 09:11:38,718 __main__ 44:DEBUG Error downloading data from ISRG
+2020-09-08 09:11:55,641 __main__ 44:DEBUG Error downloading data from KEYS
+2020-09-08 09:12:00,735 __main__ 44:DEBUG Error downloading data from KMI
+2020-09-08 09:12:06,793 __main__ 44:DEBUG Error downloading data from KR
+2020-09-08 09:12:09,469 __main__ 44:DEBUG Error downloading data from LHX
+2020-09-08 09:12:28,342 __main__ 44:DEBUG Error downloading data from LKQ
+2020-09-08 09:12:43,723 __main__ 44:DEBUG Error downloading data from MMC
+2020-09-08 09:12:58,324 __main__ 44:DEBUG Error downloading data from MET
+2020-09-08 09:13:07,443 __main__ 44:DEBUG Error downloading data from MAA
+2020-09-08 09:13:08,652 __main__ 44:DEBUG Error downloading data from MHK
+2020-09-08 09:13:09,961 __main__ 44:DEBUG Error downloading data from TAP
+2020-09-08 09:13:11,193 __main__ 44:DEBUG Error downloading data from MDLZ
+2020-09-08 09:13:16,623 __main__ 44:DEBUG Error downloading data from MS
+2020-09-08 09:13:23,471 __main__ 44:DEBUG Error downloading data from NDAQ
+2020-09-08 09:13:24,727 __main__ 44:DEBUG Error downloading data from NOV
+2020-09-08 09:13:27,315 __main__ 44:DEBUG Error downloading data from NFLX
+2020-09-08 09:13:29,796 __main__ 44:DEBUG Error downloading data from NEM
+2020-09-08 09:13:33,666 __main__ 44:DEBUG Error downloading data from NEE
+2020-09-08 09:13:34,899 __main__ 44:DEBUG Error downloading data from NLSN
+2020-09-08 09:13:38,940 __main__ 44:DEBUG Error downloading data from NBL
+2020-09-08 09:13:43,912 __main__ 44:DEBUG Error downloading data from NOC
+2020-09-08 09:13:51,503 __main__ 44:DEBUG Error downloading data from NVDA
+2020-09-08 09:13:52,909 __main__ 44:DEBUG Error downloading data from NVR
+2020-09-08 09:13:57,644 __main__ 44:DEBUG Error downloading data from ODFL
+2020-09-08 09:13:59,130 __main__ 44:DEBUG Error downloading data from OMC
+2020-09-08 09:14:03,680 __main__ 44:DEBUG Error downloading data from OTIS
+2020-09-08 09:14:05,002 __main__ 44:DEBUG Error downloading data from PCAR
+2020-09-08 09:14:06,012 __main__ 44:DEBUG Error downloading data from PKG
+2020-09-08 09:14:10,306 __main__ 44:DEBUG Error downloading data from PAYC
+2020-09-08 09:14:11,513 __main__ 44:DEBUG Error downloading data from PYPL
+2020-09-08 09:14:17,758 __main__ 44:DEBUG Error downloading data from PKI
+2020-09-08 09:14:18,971 __main__ 44:DEBUG Error downloading data from PRGO
+2020-09-08 09:14:28,791 __main__ 44:DEBUG Error downloading data from PNC
+2020-09-08 09:14:30,219 __main__ 44:DEBUG Error downloading data from PPG
+2020-09-08 09:14:31,874 __main__ 44:DEBUG Error downloading data from PPL
+2020-09-08 09:14:34,653 __main__ 44:DEBUG Error downloading data from PG
+2020-09-08 09:14:51,720 __main__ 44:DEBUG Error downloading data from DGX
+2020-09-08 09:14:56,412 __main__ 44:DEBUG Error downloading data from RTX
+2020-09-08 09:15:04,001 __main__ 44:DEBUG Error downloading data from RSG
+2020-09-08 09:15:18,526 __main__ 44:DEBUG Error downloading data from CRM
+2020-09-08 09:15:19,745 __main__ 44:DEBUG Error downloading data from SBAC
+2020-09-08 09:15:22,494 __main__ 44:DEBUG Error downloading data from STX
+2020-09-08 09:15:23,788 __main__ 44:DEBUG Error downloading data from SEE
+2020-09-08 09:15:29,577 __main__ 44:DEBUG Error downloading data from SPG
+2020-09-08 09:15:32,002 __main__ 44:DEBUG Error downloading data from SLG
+2020-09-08 09:15:46,220 __main__ 44:DEBUG Error downloading data from SIVB
+2020-09-08 09:15:47,584 __main__ 44:DEBUG Error downloading data from SYF
+2020-09-08 09:15:59,716 __main__ 44:DEBUG Error downloading data from TEL
+2020-09-08 09:16:01,058 __main__ 44:DEBUG Error downloading data from FTI
+2020-09-08 09:16:02,560 __main__ 44:DEBUG Error downloading data from TDY
+2020-09-08 09:16:06,604 __main__ 44:DEBUG Error downloading data from TXT
+2020-09-08 09:16:07,748 __main__ 44:DEBUG Error downloading data from TMO
+2020-09-08 09:16:15,669 __main__ 44:DEBUG Error downloading data from TDG
+2020-09-08 09:16:24,628 __main__ 44:DEBUG Error downloading data from UDR
+2020-09-08 09:16:34,696 __main__ 44:DEBUG Error downloading data from UNH
+2020-09-08 09:16:51,319 __main__ 44:DEBUG Error downloading data from VZ
+2020-09-08 09:16:54,085 __main__ 44:DEBUG Error downloading data from VIAC
+2020-09-08 09:16:59,862 __main__ 44:DEBUG Error downloading data from WRB
+2020-09-08 09:17:06,247 __main__ 44:DEBUG Error downloading data from WM
+2020-09-08 09:17:08,829 __main__ 44:DEBUG Error downloading data from WEC
+2020-09-08 09:17:11,198 __main__ 44:DEBUG Error downloading data from WELL
+2020-09-08 09:17:15,723 __main__ 44:DEBUG Error downloading data from WU
+2020-09-08 09:17:21,769 __main__ 44:DEBUG Error downloading data from WMB
+2020-09-08 09:17:23,265 __main__ 44:DEBUG Error downloading data from WLTW
+2020-09-08 09:17:24,716 __main__ 44:DEBUG Error downloading data from WYNN
+2020-09-08 09:17:27,330 __main__ 44:DEBUG Error downloading data from XRX
+2020-09-08 09:17:37,621 __main__ 48:INFO End downloading data from S&P500
+2020-09-08 09:17:37,978 __main__ 3:INFO Build LSTM DQN
+2020-09-08 09:17:40,303 __main__ 22:INFO Creating agent
+2020-09-08 09:18:55,869 __main__ 227:INFO Training DDQL
+2020-09-08 09:18:55,886 __main__ 246:DEBUG Running episode 0/50
+2020-09-08 09:57:34,095 __main__ 246:DEBUG Running episode 10/50
+2020-09-08 10:45:13,565 __main__ 246:DEBUG Running episode 20/50
+2020-09-08 11:26:08,497 __main__ 246:DEBUG Running episode 30/50
+2020-09-08 12:02:27,683 __main__ 246:DEBUG Running episode 40/50
