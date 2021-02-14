@@ -1,1 +1,9 @@
-./ipynb_checkpoints
+# Python files
+.ipynb_checkpoints
+__pycache__
+
+# Pycharm files
+.idea
+
+# Data
+data
